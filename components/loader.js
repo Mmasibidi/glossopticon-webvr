@@ -78,7 +78,7 @@ AFRAME.registerComponent('loader', {
     // allows the ability to scale the environment
     // though need to build in an automatic move of the player start position
     // to compnensate for this
-    mainGui.scale = 10;
+    mainGui.scale = 12;
     gui.add(mainGui, 'scale');
 
     // showAll option
