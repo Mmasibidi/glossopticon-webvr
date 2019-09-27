@@ -1,5 +1,22 @@
 [ {
-  "country" : "thisisatasasfdasdf",
+  "country" : "South Africa",
+  "documentationscore" : 1,
+  "eastlimit" : 27.323038,
+  "grammar15" : 1,
+  "iso6393" : "sot",
+  "latitude" : 27.323038,
+  "linktext2" : "See OLAC information about Sesotho",
+  "linkurl2" : "http://www.language-archives.org/language/sot",
+  "longitude" : -27.651516,
+  "name" : "Sesotho",
+  "northlimit" : -27.651516,
+  "numberofspeakers" : 0,
+  "region" : "africa",
+  "southlimit" : -27.651516,
+  "title" : "Sesotho",
+  "westlimit" : 27.323038
+},{
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 142.886,
   "grammar15" : 1,
@@ -16,7 +33,7 @@
   "title" : "Areba",
   "westlimit" : 142.377
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 136.424,
   "grammar15" : 2,
@@ -89,7 +106,7 @@
   "title" : "Ambelau",
   "westlimit" : 127.129
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 130.267,
   "grammar15" : 1,
@@ -385,7 +402,7 @@
   "title" : "Jair Awyu",
   "westlimit" : 139.863
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 143.169,
   "grammar15" : 1,
@@ -1448,7 +1465,7 @@
   "title" : "Bilur",
   "westlimit" : 152.28
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 114.75,
   "grammar15" : 1,
@@ -1466,7 +1483,7 @@
   "title" : "Bayungu",
   "westlimit" : 113.465
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 115.076,
   "grammar15" : 1,
@@ -1521,7 +1538,7 @@
   "title" : "Pouye",
   "westlimit" : 141.807
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 146.799,
   "grammar15" : 1,
@@ -1798,7 +1815,7 @@
   "title" : "Dambi",
   "westlimit" : 146.454
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 136.974,
   "grammar15" : 1,
@@ -1851,7 +1868,7 @@
   "title" : "Edopi",
   "westlimit" : 137.265
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 145.816,
   "grammar15" : 1,
@@ -2032,7 +2049,7 @@
   "title" : "Doghoro",
   "westlimit" : 148.684
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 136.119,
   "grammar15" : 1,
@@ -2050,7 +2067,7 @@
   "title" : "Dhangu-Djangu",
   "westlimit" : 135.57
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 115.467,
   "grammar15" : 1,
@@ -2104,7 +2121,7 @@
   "title" : "Dai",
   "westlimit" : 129.653
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 138.393,
   "grammar15" : 1,
@@ -2138,7 +2155,7 @@
   "title" : "Diuwe",
   "westlimit" : 139.323
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 135.341,
   "grammar15" : 1,
@@ -2156,7 +2173,7 @@
   "title" : "Djinba",
   "westlimit" : 134.593
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 130.504,
   "grammar15" : 1,
@@ -2174,7 +2191,7 @@
   "title" : "Djamindjung",
   "westlimit" : 129.495
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 145.22,
   "grammar15" : 1,
@@ -2191,7 +2208,7 @@
   "title" : "Djangun",
   "westlimit" : 144.645
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 135.265,
   "grammar15" : 4,
@@ -2209,7 +2226,7 @@
   "title" : "Djinang",
   "westlimit" : 134.375
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 134.188,
   "grammar15" : 1,
@@ -2227,7 +2244,7 @@
   "title" : "Djeebbana",
   "westlimit" : 134.005
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 135.628,
   "grammar15" : 1,
@@ -2264,7 +2281,7 @@
   "title" : "Kapriman",
   "westlimit" : 143.027
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 123.396,
   "grammar15" : 1,
@@ -2592,7 +2609,7 @@
   "title" : "Dumun",
   "westlimit" : 146.046
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 136.833,
   "grammar15" : 2,
@@ -2663,7 +2680,7 @@
   "title" : "Dawawa",
   "westlimit" : 149.918
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 122.902,
   "grammar15" : 1,
@@ -2680,7 +2697,7 @@
   "title" : "Dyaberdyaber",
   "westlimit" : 122.144
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 122.645,
   "grammar15" : 1,
@@ -2957,7 +2974,7 @@
   "title" : "Nafsan",
   "westlimit" : 168.159
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 132.896,
   "grammar15" : 1,
@@ -3251,7 +3268,7 @@
   "title" : "Foau",
   "westlimit" : 138.896
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 144.285,
   "grammar15" : 1,
@@ -3583,7 +3600,7 @@
   "title" : "Nobonob",
   "westlimit" : 145.64
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 134.456,
   "grammar15" : 1,
@@ -3602,7 +3619,7 @@
   "title" : "Kaytetye",
   "westlimit" : 132.747
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 123.117,
   "grammar15" : 2,
@@ -3676,7 +3693,7 @@
   "title" : "Galela",
   "westlimit" : 127.095
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 132.839,
   "grammar15" : 1,
@@ -3694,7 +3711,7 @@
   "title" : "Gagadu",
   "westlimit" : 132.448
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 18.282,
   "grammar15" : 0,
@@ -3730,7 +3747,7 @@
   "title" : "Mali",
   "westlimit" : 152.051
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 140.241,
   "grammar15" : 1,
@@ -3765,7 +3782,7 @@
   "title" : "Gaina",
   "westlimit" : 148.548
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 144.721,
   "grammar15" : 1,
@@ -3801,7 +3818,7 @@
   "title" : "Gedaged",
   "westlimit" : 145.764
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 129.72,
   "grammar15" : 1,
@@ -3819,7 +3836,7 @@
   "title" : "Gadjerawang",
   "westlimit" : 128.591
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 141.401,
   "grammar15" : 1,
@@ -3946,7 +3963,7 @@
   "title" : "Gao",
   "westlimit" : 159.717
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 141.371,
   "grammar15" : 1,
@@ -3965,7 +3982,7 @@
   "title" : "Gugadj",
   "westlimit" : 140.966
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 134.345,
   "grammar15" : 1,
@@ -4075,7 +4092,7 @@
   "title" : "Guhu-Samane",
   "westlimit" : 147.023
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 128.475,
   "grammar15" : 1,
@@ -4148,7 +4165,7 @@
   "title" : "Gimi",
   "westlimit" : 105.032
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 130.106,
   "grammar15" : 1,
@@ -4182,7 +4199,7 @@
   "title" : "Guya",
   "westlimit" : 146.42
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 7.398,
   "grammar15" : 1,
@@ -4200,7 +4217,7 @@
   "title" : "Kok-Nar",
   "westlimit" : 7.292
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 126.628,
   "grammar15" : 1,
@@ -4253,7 +4270,7 @@
   "title" : "Gumalu",
   "westlimit" : 145.588
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 127.107,
   "grammar15" : 3,
@@ -4291,7 +4308,7 @@
   "title" : "Ginuman",
   "westlimit" : 149.569
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 136.926,
   "grammar15" : 1,
@@ -4633,7 +4650,7 @@
   "title" : "Wasembo",
   "westlimit" : 145.904
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 132.025,
   "grammar15" : 2,
@@ -4650,7 +4667,7 @@
   "title" : "Gurinji",
   "westlimit" : 129.217
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 135.558,
   "grammar15" : 1,
@@ -4668,7 +4685,7 @@
   "title" : "Gupapuyngu",
   "westlimit" : 134.932
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 134.005,
   "grammar15" : 2,
@@ -4723,7 +4740,7 @@
   "title" : "Golin",
   "westlimit" : 144.642
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 3,
   "eastlimit" : 145.488,
   "grammar15" : 4,
@@ -4759,7 +4776,7 @@
   "title" : "Gumawana",
   "westlimit" : 150.691
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 149.083,
   "grammar15" : 1,
@@ -4778,7 +4795,7 @@
   "title" : "Guwamu",
   "westlimit" : 148.651
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 126.647,
   "grammar15" : 2,
@@ -4814,7 +4831,7 @@
   "title" : "Garus",
   "westlimit" : 145.614
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 139.64,
   "grammar15" : 2,
@@ -4831,7 +4848,7 @@
   "title" : "Kayardild",
   "westlimit" : 139.4
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 148.877,
   "grammar15" : 1,
@@ -4849,7 +4866,7 @@
   "title" : "Gungabula",
   "westlimit" : 148.331
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 146.293,
   "grammar15" : 1,
@@ -5534,7 +5551,7 @@
   "title" : "Purari",
   "westlimit" : 144.786
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 3,
   "eastlimit" : 133.151,
   "grammar15" : 5,
@@ -5712,7 +5729,7 @@
   "title" : "Ile Ape",
   "westlimit" : 123.334
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 132.265,
   "grammar15" : 1,
@@ -6123,7 +6140,7 @@
   "title" : "Yalahatan",
   "westlimit" : 129.276
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 137.104,
   "grammar15" : 3,
@@ -6194,7 +6211,7 @@
   "title" : "Yaur",
   "westlimit" : 134.752
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 134.951,
   "grammar15" : 1,
@@ -6321,7 +6338,7 @@
   "title" : "Manem",
   "westlimit" : 140.821
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 134.084,
   "grammar15" : 2,
@@ -6434,7 +6451,7 @@
   "westlimit" : 127.799
 }, {
   "audiofile" : "TD1-106-A",
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 143.138,
   "grammar15" : 2,
@@ -6685,7 +6702,7 @@
   "title" : "Kaian",
   "westlimit" : 144.752
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 135.657,
   "grammar15" : 1,
@@ -6865,7 +6882,7 @@
   "title" : "Kube",
   "westlimit" : 147.449
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 143.474,
   "grammar15" : 1,
@@ -6921,7 +6938,7 @@
   "title" : "Abun",
   "westlimit" : 131.806
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 153.061,
   "grammar15" : 1,
@@ -7412,7 +7429,7 @@
   "title" : "Highland Konjo",
   "westlimit" : 119.688
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 144.219,
   "grammar15" : 2,
@@ -7557,7 +7574,7 @@
   "title" : "Kosarek Yale",
   "westlimit" : 139.481
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 141.764,
   "grammar15" : 1,
@@ -7575,7 +7592,7 @@
   "title" : "Gugubera",
   "westlimit" : 141.507
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 145.359,
   "grammar15" : 1,
@@ -7594,7 +7611,7 @@
   "title" : "Guguyimidjir",
   "westlimit" : 144.303
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 151.399,
   "grammar15" : 1,
@@ -8646,7 +8663,7 @@
   "title" : "Kedang",
   "westlimit" : 123.62
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 136.925,
   "grammar15" : 1,
@@ -8863,7 +8880,7 @@
   "title" : "Kur",
   "westlimit" : 131.955
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 128.184,
   "grammar15" : 1,
@@ -8881,7 +8898,7 @@
   "title" : "Kukatja",
   "westlimit" : 127.148
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 143.442,
   "grammar15" : 1,
@@ -9008,7 +9025,7 @@
   "title" : "Kompane",
   "westlimit" : 134.724
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 141.216,
   "grammar15" : 1,
@@ -9782,7 +9799,7 @@
   "title" : "Tolaki",
   "westlimit" : 120.873
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 144.082,
   "grammar15" : 1,
@@ -9801,7 +9818,7 @@
   "title" : "Lamu-Lamu",
   "westlimit" : 143.166
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 139.737,
   "grammar15" : 1,
@@ -10543,7 +10560,7 @@
   "title" : "Lauan",
   "westlimit" : -179.537
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 132.091,
   "grammar15" : 1,
@@ -10823,7 +10840,7 @@
   "title" : "Lepki",
   "westlimit" : 140.258
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 131.027,
   "grammar15" : 1,
@@ -11386,7 +11403,7 @@
   "title" : "Ikobi",
   "westlimit" : 143.134
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 135.453,
   "grammar15" : 1,
@@ -11483,7 +11500,7 @@
   "title" : "Mekeo",
   "westlimit" : 146.346
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 126.16,
   "grammar15" : 1,
@@ -11502,7 +11519,7 @@
   "title" : "Mangala",
   "westlimit" : 120.563
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 129.772,
   "grammar15" : 1,
@@ -11579,7 +11596,7 @@
   "audiofile" : "IG1-020-A",
   "audiofile2" : "IG1-021-A",
   "audiofile3" : "IG1-022-A",
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 130.351,
   "grammar15" : 1,
@@ -11670,7 +11687,7 @@
   "title" : "Maleu-Kilenge",
   "westlimit" : 148.308
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 125.804,
   "grammar15" : 1,
@@ -11744,7 +11761,7 @@
   "title" : "Mamaa",
   "westlimit" : 146.52
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 132.611,
   "grammar15" : 1,
@@ -12504,7 +12521,7 @@
   "audiofile" : "IG8-001-A",
   "audiofile2" : "IG8-002-A",
   "audiofile3" : "IG8-003-A",
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 131.063,
   "grammar15" : 2,
@@ -12523,7 +12540,7 @@
   "title" : "Mullukmulluk",
   "westlimit" : 130.167
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 134.59,
   "grammar15" : 1,
@@ -12542,7 +12559,7 @@
   "westlimit" : 133.016
 }, {
   "audiofile" : "RS1-016-01",
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 133.491,
   "grammar15" : 2,
@@ -12561,7 +12578,7 @@
   "title" : "Maung",
   "westlimit" : 133.002
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 124.642,
   "grammar15" : 5,
@@ -13658,7 +13675,7 @@
   "title" : "Mekmek",
   "westlimit" : 143.659
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 143.841,
   "grammar15" : 1,
@@ -13857,7 +13874,7 @@
   "title" : "Are",
   "westlimit" : 149.943
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 130.049,
   "grammar15" : 2,
@@ -13909,7 +13926,7 @@
   "title" : "Mouk-Aria",
   "westlimit" : 148.949
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 3,
   "eastlimit" : 143.579,
   "grammar15" : 3,
@@ -14163,7 +14180,7 @@
   "title" : "Narak",
   "westlimit" : 144.594
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 121.978,
   "grammar15" : 1,
@@ -14252,7 +14269,7 @@
   "title" : "Nalik",
   "westlimit" : 151.197
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 131.766,
   "grammar15" : 2,
@@ -14326,7 +14343,7 @@
   "title" : "Nakwi",
   "westlimit" : 141.515
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 131.662,
   "grammar15" : 2,
@@ -14489,7 +14506,7 @@
   "title" : "Notsi",
   "westlimit" : 151.57
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 134.48,
   "grammar15" : 1,
@@ -14803,7 +14820,7 @@
   "title" : "Ayiwo",
   "westlimit" : 166.169
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 3,
   "eastlimit" : 134.606,
   "grammar15" : 3,
@@ -14860,7 +14877,7 @@
   "title" : "Engdewu",
   "westlimit" : 165.86
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 116.096,
   "grammar15" : 1,
@@ -14932,7 +14949,7 @@
   "title" : "Nek",
   "westlimit" : 146.779
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 135.156,
   "grammar15" : 1,
@@ -15081,7 +15098,7 @@
   "audiofile" : "RN1-002007-A",
   "audiofile2" : "RN1-002010-A",
   "audiofile3" : "RN1-004001-A",
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 134.933,
   "grammar15" : 1,
@@ -15117,7 +15134,7 @@
   "title" : "Nisa",
   "westlimit" : 137.406
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 126.581,
   "grammar15" : 1,
@@ -15316,7 +15333,7 @@
   "title" : "Ninia Yali",
   "westlimit" : 139.138
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 120.692,
   "grammar15" : 1,
@@ -15334,7 +15351,7 @@
   "title" : "Nyamal",
   "westlimit" : 118.694
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 123.58,
   "grammar15" : 1,
@@ -15351,7 +15368,7 @@
   "title" : "Nimanbur",
   "westlimit" : 122.876
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 139.374,
   "grammar15" : 1,
@@ -15404,7 +15421,7 @@
   "title" : "Nama",
   "westlimit" : 152.968
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 123.156,
   "grammar15" : 2,
@@ -15495,7 +15512,7 @@
   "title" : "Namia",
   "westlimit" : 141.667
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 38.72,
   "grammar15" : 1,
@@ -15512,7 +15529,7 @@
   "title" : "Narungga",
   "westlimit" : 36.546
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 138.669,
   "grammar15" : 1,
@@ -15711,7 +15728,7 @@
   "title" : "Nen",
   "westlimit" : 141.98
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 117.549,
   "grammar15" : 1,
@@ -15728,7 +15745,7 @@
   "title" : "Ngarluma",
   "westlimit" : 116.817
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 132.693,
   "grammar15" : 1,
@@ -15806,7 +15823,7 @@
   "title" : "Nali",
   "westlimit" : 147.129
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 129.177,
   "grammar15" : 3,
@@ -15861,7 +15878,7 @@
   "title" : "Ngala",
   "westlimit" : 142.462
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 132.062,
   "grammar15" : 1,
@@ -15985,7 +16002,7 @@
   "title" : "Mehek",
   "westlimit" : 142.46
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 136.078,
   "grammar15" : 3,
@@ -16021,7 +16038,7 @@
   "title" : "Namiae",
   "westlimit" : 148.13
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 30.485,
   "grammar15" : 1,
@@ -16125,7 +16142,7 @@
   "title" : "South Nuaulu",
   "westlimit" : 129.037
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 141.781,
   "grammar15" : 2,
@@ -16202,7 +16219,7 @@
   "title" : "Nafri",
   "westlimit" : 140.709
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 125.609,
   "grammar15" : 1,
@@ -16220,7 +16237,7 @@
   "title" : "Nyigina",
   "westlimit" : 123.087
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 146.445,
   "grammar15" : 1,
@@ -16238,7 +16255,7 @@
   "title" : "Nyawaygi",
   "westlimit" : 145.986
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 123.17,
   "grammar15" : 1,
@@ -16952,7 +16969,7 @@
   "title" : "Pingelapese",
   "westlimit" : 160.695
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 123.127,
   "grammar15" : 1,
@@ -17008,7 +17025,7 @@
   "title" : "Pijin",
   "westlimit" : 140.86
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 140.307,
   "grammar15" : 1,
@@ -17026,7 +17043,7 @@
   "title" : "Pitta Pitta",
   "westlimit" : 139.658
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 132.084,
   "grammar15" : 1,
@@ -17098,7 +17115,7 @@
   "title" : "Pije",
   "westlimit" : 164.839
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 134.752,
   "grammar15" : 4,
@@ -17136,7 +17153,7 @@
   "title" : "Pak-Tong",
   "westlimit" : 147.582
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 143.113,
   "grammar15" : 1,
@@ -17153,7 +17170,7 @@
   "title" : "Pakanha",
   "westlimit" : 142.367
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : -165.4,
   "grammar15" : 1,
@@ -17407,7 +17424,7 @@
   "title" : "Ponosakan",
   "westlimit" : 124.582
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 117.177,
   "grammar15" : 1,
@@ -17424,7 +17441,7 @@
   "title" : "Pinigura",
   "westlimit" : 115.899
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 119.373,
   "grammar15" : 1,
@@ -17755,7 +17772,7 @@
   "title" : "Kaulong",
   "westlimit" : 149.542
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 130.106,
   "grammar15" : 1,
@@ -18158,7 +18175,7 @@
   "title" : "Yahang",
   "westlimit" : 142.311
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 135.983,
   "grammar15" : 1,
@@ -18229,7 +18246,7 @@
   "title" : "Rakahanga-Manihiki",
   "westlimit" : -161.094
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 134.774,
   "grammar15" : 1,
@@ -20965,7 +20982,7 @@
   "title" : "Tanggu",
   "westlimit" : 144.857
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 142.252,
   "grammar15" : 1,
@@ -21059,7 +21076,7 @@
   "title" : "Trimuris",
   "westlimit" : 137.915
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 131.539,
   "grammar15" : 5,
@@ -22178,7 +22195,7 @@
   "title" : "Kombai",
   "westlimit" : 139.58
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 143.55,
   "grammar15" : 1,
@@ -22290,7 +22307,7 @@
   "title" : "Ufim",
   "westlimit" : 146.11
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 141.635,
   "grammar15" : 1,
@@ -22397,7 +22414,7 @@
   "title" : "Usku",
   "westlimit" : 140.427
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 144.065,
   "grammar15" : 1,
@@ -22432,7 +22449,7 @@
   "title" : "Ulumanda'",
   "westlimit" : 118.753
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 143.63,
   "grammar15" : 1,
@@ -22450,7 +22467,7 @@
   "title" : "Umbindhamu",
   "westlimit" : 143.026
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 143.791,
   "grammar15" : 1,
@@ -22468,7 +22485,7 @@
   "title" : "Umbuygamu",
   "westlimit" : 143.47
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 143.6,
   "grammar15" : 2,
@@ -22486,7 +22503,7 @@
   "title" : "Umpila",
   "westlimit" : 143.334
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 132.079,
   "grammar15" : 1,
@@ -22556,7 +22573,7 @@
   "title" : "Umeda",
   "westlimit" : 141.128
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 133.396,
   "grammar15" : 1,
@@ -22574,7 +22591,7 @@
   "title" : "Urningangg",
   "westlimit" : 132.65
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 142.272,
   "grammar15" : 1,
@@ -22997,7 +23014,7 @@
   "title" : "Kodeoha",
   "westlimit" : 120.867
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 118.183,
   "grammar15" : 1,
@@ -23014,7 +23031,7 @@
   "title" : "Kurrama",
   "westlimit" : 116.837
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 143.755,
   "grammar15" : 1,
@@ -23065,7 +23082,7 @@
   "title" : "Lungalunga",
   "westlimit" : 151.964
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 127.477,
   "grammar15" : 1,
@@ -23083,7 +23100,7 @@
   "title" : "Miwa",
   "westlimit" : 126.366
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 145.465,
   "grammar15" : 1,
@@ -23207,7 +23224,7 @@
   "title" : "Waffa",
   "westlimit" : 146.018
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 132.49,
   "grammar15" : 1,
@@ -23295,7 +23312,7 @@
   "title" : "Waritai",
   "westlimit" : 138.417
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 134.375,
   "grammar15" : 4,
@@ -23317,7 +23334,7 @@
   "audiofile" : "NT10-2010-0824",
   "audiofile2" : "NT10-20100826-000",
   "audiofile3" : "NT10-W03-A",
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 123.712,
   "grammar15" : 1,
@@ -23357,7 +23374,7 @@
   "audiofile" : "IG5-001-A1",
   "audiofile2" : "IG5-002-A",
   "audiofile3" : "IG5-003-A",
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 131.362,
   "grammar15" : 1,
@@ -23376,7 +23393,7 @@
   "title" : "Wadjiginy",
   "westlimit" : 130.112
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 147.673,
   "grammar15" : 1,
@@ -23462,7 +23479,7 @@
   "title" : "Yafi",
   "westlimit" : 140.814
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 138.032,
   "grammar15" : 1,
@@ -23517,7 +23534,7 @@
   "title" : "Waigeo",
   "westlimit" : 130.597
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 146.342,
   "grammar15" : 1,
@@ -23569,7 +23586,7 @@
   "title" : "North Wahgi",
   "westlimit" : 144.568
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 141.966,
   "grammar15" : 1,
@@ -23586,7 +23603,7 @@
   "title" : "Wik-Epa",
   "westlimit" : 141.749
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 141.597,
   "grammar15" : 1,
@@ -23603,7 +23620,7 @@
   "title" : "Wik-Ngathana",
   "westlimit" : 141.467
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 142.034,
   "grammar15" : 1,
@@ -23639,7 +23656,7 @@
   "title" : "Minidien",
   "westlimit" : 142.25
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 141.627,
   "grammar15" : 1,
@@ -23656,7 +23673,7 @@
   "title" : "Wikalkan",
   "westlimit" : 141.487
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 5,
   "eastlimit" : 142.093,
   "grammar15" : 5,
@@ -23711,7 +23728,7 @@
   "title" : "Wakde",
   "westlimit" : 138.993
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 152.122,
   "grammar15" : 1,
@@ -23747,7 +23764,7 @@
   "title" : "Walio",
   "westlimit" : 142.201
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 134.084,
   "grammar15" : 1,
@@ -23842,7 +23859,7 @@
   "audiofile" : "RN1-001001-A",
   "audiofile2" : "RN1-001002-A",
   "audiofile3" : "RN1-001003-A",
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 3,
   "eastlimit" : 137.298,
   "grammar15" : 2,
@@ -23897,7 +23914,7 @@
   "title" : "Waima'a",
   "westlimit" : 126.239
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 144.102,
   "grammar15" : 1,
@@ -23987,7 +24004,7 @@
   "westlimit" : 145.322
 }, {
   "audiofile" : "SAW2-118-A",
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 137.88,
   "grammar15" : 1,
@@ -24042,7 +24059,7 @@
   "title" : "Usan",
   "westlimit" : 145.273
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 145.451,
   "grammar15" : 1,
@@ -24174,7 +24191,7 @@
   "title" : "Warapu",
   "westlimit" : 141.941
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 139.065,
   "grammar15" : 1,
@@ -24193,7 +24210,7 @@
   "title" : "Warluwara",
   "westlimit" : 138.411
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 148.505,
   "grammar15" : 1,
@@ -24211,7 +24228,7 @@
   "title" : "Wiradhuri",
   "westlimit" : 143.483
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 134.159,
   "grammar15" : 1,
@@ -24229,7 +24246,7 @@
   "title" : "Warlmanpa",
   "westlimit" : 133.566
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 135.452,
   "grammar15" : 1,
@@ -24318,7 +24335,7 @@
   "title" : "Wae Rana",
   "westlimit" : 120.6
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 131.484,
   "grammar15" : 2,
@@ -24390,7 +24407,7 @@
   "title" : "Wotu",
   "westlimit" : 120.811
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 128.303,
   "grammar15" : 1,
@@ -24427,7 +24444,7 @@
   "title" : "Wutung",
   "westlimit" : 141.004
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 131.411,
   "grammar15" : 1,
@@ -24446,7 +24463,7 @@
   "title" : "Wulna",
   "westlimit" : 131.11
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 124.364,
   "grammar15" : 1,
@@ -24463,7 +24480,7 @@
   "title" : "Warrwa",
   "westlimit" : 123.579
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 147.47,
   "grammar15" : 2,
@@ -24660,7 +24677,7 @@
   "title" : "Kamula",
   "westlimit" : 142.291
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 141.675,
   "grammar15" : 1,
@@ -24694,7 +24711,7 @@
   "title" : "Manado Malay",
   "westlimit" : 124.824
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 141.934,
   "grammar15" : 1,
@@ -24746,7 +24763,7 @@
   "title" : "Maden",
   "westlimit" : 130.638
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 140.791,
   "grammar15" : 1,
@@ -24982,7 +24999,7 @@
   "title" : "Yagwoia",
   "westlimit" : 145.715
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 118.504,
   "grammar15" : 1,
@@ -25213,7 +25230,7 @@
   "title" : "Yarawata",
   "westlimit" : 145.416
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 123.18,
   "grammar15" : 1,
@@ -25230,7 +25247,7 @@
   "title" : "Yawuru",
   "westlimit" : 122.205
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 141.631,
   "grammar15" : 1,
@@ -25268,7 +25285,7 @@
   "title" : "Zimakani",
   "westlimit" : 141.144
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 145.41,
   "grammar15" : 1,
@@ -25304,7 +25321,7 @@
   "title" : "Makolkol",
   "westlimit" : 151.661
 }, {
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 130.722,
   "grammar15" : 1,
@@ -25325,7 +25342,7 @@
   "audiofile" : "IG6-001-A",
   "audiofile2" : "IG6-002-A",
   "audiofile3" : "IG6-003-A",
-  "country" : "thisisatasasfdasdf",
+  "country" : "Australia",
   "documentationscore" : 2,
   "eastlimit" : 130.27,
   "grammar15" : 2,
