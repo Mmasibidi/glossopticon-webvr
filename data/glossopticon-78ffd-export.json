@@ -1,21 +1,440 @@
-[ {
-  "country" : "South Africa",
-  "documentationscore" : 1,
-  "eastlimit" : 27.323038,
-  "grammar15" : 1,
-  "iso6393" : "sot",
-  "latitude" : 27.323038,
-  "linktext2" : "See OLAC information about Sesotho",
-  "linkurl2" : "http://www.language-archives.org/language/sot",
-  "longitude" : -27.651516,
-  "name" : "Sesotho",
-  "northlimit" : -27.651516,
-  "numberofspeakers" : 0,
-  "region" : "africa",
-  "southlimit" : -27.651516,
-  "title" : "Sesotho",
-  "westlimit" : 27.323038
-},{
+[ 
+
+    
+	
+	{
+        "longitude": -26.556082,  
+        "latitude": 27.862308,
+        "name": "Sesotho",
+        "title": "Sesotho",
+        "linkurl2": "http://www.language-archives.org/language/sot#language_descriptions",
+        "linktext2": "See OLAC information about Sesotho",
+        "numberofspeakers": 11800000,
+        "grammar15": 1,
+        "documentationscore": 1,
+        "iso6393": "sot",
+        "northlimit": -26.556082,
+        "southlimit": -26.556082,
+        "westlimit": 27.862308,
+        "eastlimit": 27.862308,
+        "country": "South Africa",
+"audiofile": "MR1-093-A",
+		"province": "Gauteng"
+		
+    },
+    
+    {
+        "longitude": -25.450626, 
+        "latitude": 28.294591,
+        "name": "Sepedi",
+        "title": "Sepedi",
+        "linkurl2": "http://www.language-archives.org/language/nso#primary_text",
+        "linktext2": "See OLAC information about Sepedi",
+        "numberofspeakers": 13800000,
+        "grammar15": 2,
+        "lexicon15": 1,
+        "texts15": 5,
+        "documentationscore": 5,
+        "iso6393": "nso",
+        "northlimit": -25.450626,
+        "southlimit": -25.450626,
+        "westlimit": 28.294591,
+        "eastlimit": 28.294591,
+        "country": "South Africa",
+"audiofile": "MR1-093-A",
+		"province": Gauteng
+    },
+    {
+        "longitude": 25.2838,
+        "latitude": 26.6639,
+        "name": "Setswana",
+        "title": "Setswana",
+        "linkurl2": "http://www.language-archives.org/language/tsn#primary_text",
+        "linktext2": "See OLAC information about Setswana",
+        "numberofspeakers": 11800000,
+        "grammar15": 1,
+        "lexicon15": 1,
+        "documentationscore": 2,
+        "iso6393": "tsn",
+        "northlimit": 25.2838,
+        "southlimit": 25.2838,
+        "westlimit": 26.6639,
+        "eastlimit": 26.6639,
+        "country": "South Africa",
+"audiofile": "MR1-093-A",
+		"province": "NorthWest"
+		
+	},
+    {
+        "longitude": -25.797757, 
+        "latitude": 27.991957,
+        "name": "Setswana",
+        "title": "Setswana",
+        "linkurl2": "http://www.language-archives.org/language/tsn#primary_text",
+        "linktext2": "See OLAC information about Setswana",
+        "numberofspeakers": 11800000,
+        "grammar15": 1,
+        "lexicon15": 1,
+        "documentationscore": 2,
+        "iso6393": "tsn",
+        "northlimit": -25.797757,
+        "southlimit": -25.797757,
+        "westlimit": 27.991957,
+        "eastlimit": 27.991957,
+        "country": "South Africa",
+"audiofile": "MR1-093-A",
+		"province": "NorthWest"
+		
+    },
+    {
+        "longitude": 30.8958,
+        "latitude": 28.5306,
+        "name": "isiZulu",
+        "title": "isiZulu",
+        "linkurl2": "http://www.language-archives.org/language/zul#primary_text",
+        "linktext2": "See OLAC information about isiZulu",
+        "numberofspeakers": 27300000,
+        "grammar15": 1,
+        "lexicon15": 1,
+        "texts15": 1,
+        "documentationscore": 1,
+        "iso6393": "zul",
+        "northlimit": 30.8958,
+        "southlimit": 30.8958,
+        "westlimit": 28.5306,
+        "eastlimit": 28.5306,
+        "country": "South Africa",
+"audiofile": "MR1-093-A",
+		"province": "KwaZulu Natal"
+    },
+    {
+        "longitude": 26.4194,
+        "latitude": 32.2968,
+        "name": "isiXhosa",
+        "title": "isiXhosa",
+        "linkurl2": "http://www.language-archives.org/language/xho#primary_text",
+        "linktext2": "See OLAC information about isiXhosa",
+        "numberofspeakers": 19100000,
+        "grammar15": 1,
+        "documentationscore": 1,
+        "iso6393": "xho",
+        "northlimit": 26.4194,
+        "southlimit": 26.4194,
+        "westlimit": 32.2968,
+        "eastlimit": 32.2968,
+        "country": "South Africa",
+"audiofile": "MR1-093-A",
+		"province": "Eastern Cape"
+		
+		        
+	}, 
+	    "Longitude": -32.465631, 
+        "latitude": 22.749598,
+        "name": "isiXhosa",
+        "title": "isiXhosa",
+        "linkurl2": "http://www.language-archives.org/language/xho#primary_text",
+        "linktext2": "See OLAC information about isiXhosa",
+        "numberofspeakers": 19100000,
+        "grammar15": 1,
+        "documentationscore": 1,
+        "iso6393": "xho",
+        "northlimit": -32.465631,
+        "southlimit": -32.465631,
+        "westlimit": 22.749598,
+        "eastlimit": 22.749598,
+        "country": "South Africa",
+"audiofile": "MR1-093-A",
+		"province": "Western Cape"
+		
+    },
+    {
+        "longitude": -25.728759, 
+        "latitude": 30.516842,
+        "name": "siSwati",
+        "title": "siSwati",
+        "linkurl2": "http://www.language-archives.org/language/ssw#primary_text",
+        "linktext2": "See OLAC information about Swati",
+        "numberofspeakers": 3700000,
+        "grammar15": 1,
+        "lexicon15": 1,
+        "texts15": 1,
+        "documentationscore": 1,
+        "iso6393": "ssw",
+        "northlimit": -25.728759,
+        "southlimit": -25.728759,
+        "westlimit": 30.516842,
+        "eastlimit": 30.516842,
+        "country": "South Africa",
+"audiofile": "MR1-093-A",
+		"province": "Mpumalanga" 
+    },
+    {
+        "longitude": -22.638023, 
+        "latitude": 29.749666,
+        "name": "Tshivenda",
+        "title": "Tshivenda",
+        "linkurl2": "http://www.language-archives.org/language/ven#primary_text",
+        "linktext2": "See OLAC information about Tshivenda",
+        "numberofspeakers": 2900000,
+        "grammar15": 1,
+        "lexicon15": 1,
+        "texts15": 1,
+        "documentationscore": 1,
+        "iso6393": "ven",
+        "northlimit": -22.638023,
+        "southlimit": -22.638023,
+        "westlimit": 29.749666,
+        "eastlimit": 29.749666,
+        "country": "South Africa”,
+"audiofile": "MR1-093-A",
+		"province": "Limpopo"
+		
+	},
+    {
+        "longitude": -26.284372, 
+        "latitude":27.883579,
+        "name": "Tshivenda",
+        "title": "Tshivenda",
+        "linkurl2": "http://www.language-archives.org/language/ven#primary_text",
+        "linktext2": "See OLAC information about Tshivenda",
+        "numberofspeakers": 2900000,
+        "grammar15": 1,
+        "lexicon15": 1,
+        "texts15": 1,
+        "documentationscore": 1,
+        "iso6393": "ven",
+        "northlimit": -26.284372,
+        "southlimit": -26.284372,
+        "westlimit": 27.883579,
+        "eastlimit": 27.883579,
+        "country": "South Africa”,
+"audiofile": "MR1-093-A",
+		"province": "Gauteng"
+		
+    },
+    {
+        "longitude": 27.883579, 
+        "latitude": 27.883579,
+        "name": "Xitsonga",
+        "title": "Xitsonga",
+        "linkurl2": "http://www.language-archives.org/language/tso#primary_text",
+        "linktext2": "See OLAC information about Xitsonga",
+        "numberofspeakers": 5700000,
+        "grammar15": 1,
+        "lexicon15": 1,
+        "texts15": 1,
+        "documentationscore": 1,
+        "iso6393": "tso",
+        "northlimit": 27.883579,
+        "southlimit": 27.883579,
+        "westlimit": 27.883579,
+        "eastlimit": 27.883579,
+        "country": "South Africa”,
+"audiofile": "MR1-093-A",
+		"province": "Gauteng" 
+		
+	},
+    {
+        "longitude": -23.338091, 
+        "latitude": 30.765276,
+        "name": "Xitsonga",
+        "title": "Xitsonga",
+        "linkurl2": "http://www.language-archives.org/language/tso#primary_text",
+        "linktext2": "See OLAC information about Xitsonga",
+        "numberofspeakers": 5700000,
+        "grammar15": 1,
+        "lexicon15": 1,
+        "texts15": 1,
+        "documentationscore": 1,
+        "iso6393": "tso",
+        "northlimit": -23.338091,
+        "southlimit": -23.338091,
+        "westlimit": 30.765276,
+        "eastlimit": 30.765276,
+        "country": "South Africa”,
+"audiofile": "MR1-093-A",
+		"province": "Limpopo" 
+    },
+    },
+    {
+        "longitude": -24.634546, 
+        "latitude": 30.848307,
+        "name": "isiNdebele",
+        "title": "isiNdebele",
+        "linkurl2": "http://www.language-archives.org/language/nbl#primary_text",
+        "linktext2": "See OLAC information about isiNdebele",
+        "numberofspeakers": 2500000,
+        "grammar15": 1,
+        "lexicon15": 1,
+        "texts15": 1,
+        "documentationscore": 1,
+        "iso6393": "nbl",
+        "northlimit": -24.634546,
+        "southlimit": -24.634546,
+        "westlimit": 30.848307,
+        "eastlimit": 30.848307,
+        "country": "South Africa”,
+"audiofile": "MR1-093-A",
+		"province": "Mpumalanga"
+    },
+	
+	{
+        "longitude": -24.400427, 
+        "latitude": 30.493493,
+        "name": "isiNdebele",
+        "title": "isiNdebele",
+        "linkurl2": "http://www.language-archives.org/language/nbl#primary_text",
+        "linktext2": "See OLAC information about isiNdebele",
+        "numberofspeakers": 2500000,
+        "grammar15": 1,
+        "lexicon15": 1,
+        "texts15": 1,
+        "documentationscore": 1,
+        "iso6393": "nbl",
+        "northlimit": -24.400427,
+        "southlimit": -24.400427,
+        "westlimit": 30.493493,
+        "eastlimit": 30.493493,
+        "country": "South Africa”,
+"audiofile": "MR1-093-A",
+		"province": "Limpopo"
+    },
+	
+    {
+        "longitude": -34.198321, 
+        "latitude": 21.252607,
+        "name": "English",
+        "title": "English",
+        "linkurl2": "http://www.language-archives.org/language/eng#primary_text",
+        "linktext2": "See OLAC information about English",
+        "numberofspeakers": 15900000,
+        "grammar15": 2,
+        "lexicon15": 1,
+        "documentationscore": 1,
+        "iso6393": "eng",
+        "audiofile": "MR1-093-A",
+        "northlimit": -34.198321,
+        "southlimit": -34.198321,
+        "westlimit": 21.252607,
+        "eastlimit": 21.252607,
+        "country": "South Africa”,
+		"province": "Western Cape"
+		
+	},
+	
+    {
+        "longitude": -26.181144, 
+        "latitude": 28.036976,
+        "name": "English",
+        "title": "English",
+        "linkurl2": "http://www.language-archives.org/language/eng#primary_text",
+        "linktext2": "See OLAC information about English",
+        "numberofspeakers": 15900000,
+        "grammar15": 2,
+        "lexicon15": 1,
+        "documentationscore": 1,
+        "iso6393": "eng",
+        "audiofile": "MR1-093-A",
+        "northlimit":  -26.181144,
+        "southlimit":  -26.181144,
+        "westlimit": 28.036976,
+        "eastlimit": 28.036976,
+        "country": "South Africa”,
+		"province": "Gauteng"
+		
+	},
+	
+    {
+        "longitude": -29.628092, 
+        "latitude": 30.976278,
+        "name": "English",
+        "title": "English",
+        "linkurl2": "http://www.language-archives.org/language/eng#primary_text",
+        "linktext2": "See OLAC information about English",
+        "numberofspeakers": 15900000,
+        "grammar15": 2,
+        "lexicon15": 1,
+        "documentationscore": 1,
+        "iso6393": "eng",
+        "audiofile": "MR1-093-A",
+        "northlimit":  -29.628092,
+        "southlimit":  -29.628092,
+        "westlimit": 30.976278,
+        "eastlimit": 30.976278,
+        "country": "South Africa”,
+		"province": "KwaZulu Natal"
+		
+	},
+	
+    {
+        "longitude": 147.103,
+        "latitude": -5.31671,
+        "name": "English",
+        "title": "English",
+        "linkurl2": "http://www.language-archives.org/language/eng#primary_text",
+        "linktext2": "See OLAC information about English",
+        "numberofspeakers": 15900000,
+        "grammar15": 2,
+        "lexicon15": 1,
+        "documentationscore": 1,
+        "iso6393": "eng",
+        "audiofile": "MR1-093-A",
+        "northlimit": -5.098,
+        "southlimit": -5.526,
+        "westlimit": 146.941,
+        "eastlimit": 147.833,
+        "country": "South Africa"
+		
+    },
+    {
+		
+    },
+    {
+
+        "longitude": -33.939671, 
+        "latitude": 18.768842,
+        "name": "Afrikaans",
+        "title": "Afrikaans",
+        "linkurl2": "http://www.language-archives.org/language/afr#primary_text",
+        "linktext2": "See OLAC information about Afrikaans",
+        "numberofspeakers": 17200000,
+        "grammar15": 2,
+        "texts15": 1,
+        "documentationscore": 1,
+        "iso6393": "aps",
+        "northlimit": -33.939671,
+        "southlimit": -33.939671,
+        "westlimit": 18.768842,
+        "eastlimit": 18.768842,
+        "country": "South Africa”,
+"audiofile": "MR1-093-A",
+		"province": "Western Cape"
+		
+	},
+	{	
+	
+        "longitude": -26.722875, 
+        "latitude": 27.030811,
+        "name": "Afrikaans",
+        "title": "Afrikaans",
+        "linkurl2": "http://www.language-archives.org/language/afr#primary_text",
+        "linktext2": "See OLAC information about Afrikaans",
+        "numberofspeakers": 17200000,
+        "grammar15": 2,
+        "texts15": 1,
+        "documentationscore": 1,
+        "iso6393": "aps",
+        "northlimit": -26.722875,
+        "southlimit": -26.722875,
+        "westlimit": 27.030811,
+        "eastlimit": 27.030811,
+        "country": "South Africa”,
+"audiofile": "MR1-093-A",
+		"province": "NorthWest"
+
+    },
+  
+  {
   "country" : "Australia",
   "documentationscore" : 1,
   "eastlimit" : 142.886,
@@ -70,7 +489,7 @@
   "title" : "Alune",
   "westlimit" : 128.191
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.402,
   "grammar15" : 1,
@@ -125,7 +544,7 @@
   "title" : "Ami",
   "westlimit" : 129.813
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.14,
   "grammar15" : 1,
@@ -144,7 +563,7 @@
   "title" : "Andra-Hus",
   "westlimit" : 147.004
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.661,
   "grammar15" : 1,
@@ -183,7 +602,7 @@
   "westlimit" : 140.588
 }, {
   "audiofile" : "MR1-093-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.833,
   "grammar15" : 2,
@@ -201,7 +620,7 @@
   "title" : "Arop-Lokep",
   "westlimit" : 146.941
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.148,
   "grammar15" : 2,
@@ -219,7 +638,7 @@
   "title" : "Arop-Sissano",
   "westlimit" : 142.091
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 146.288,
   "grammar15" : 5,
@@ -308,7 +727,7 @@
   "title" : "Asumboa",
   "westlimit" : 166.462
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.953,
   "grammar15" : 1,
@@ -327,7 +746,7 @@
   "title" : "Anuki",
   "westlimit" : 149.691
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.836,
   "grammar15" : 1,
@@ -346,7 +765,7 @@
   "title" : "Molmo One",
   "westlimit" : 141.776
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.883,
   "grammar15" : 3,
@@ -366,7 +785,7 @@
   "westlimit" : 145.636
 }, {
   "audiofile" : "CLV1-195-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 142.011,
   "grammar15" : 1,
@@ -436,7 +855,7 @@
   "title" : "Barakai",
   "westlimit" : 134.621
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.55,
   "grammar15" : 4,
@@ -455,7 +874,7 @@
   "title" : "Girawa",
   "westlimit" : 145.297
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 148.753,
   "grammar15" : 3,
@@ -490,7 +909,7 @@
   "title" : "Budong-Budong",
   "westlimit" : 119.316
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 150.445,
   "grammar15" : 5,
@@ -577,7 +996,7 @@
   "title" : "Banggai",
   "westlimit" : 122.787
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 142.207,
   "grammar15" : 2,
@@ -638,7 +1057,7 @@
   "westlimit" : 166.427
 }, {
   "audiofile" : "WD1-110-orig",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 142.99,
   "grammar15" : 3,
@@ -657,7 +1076,7 @@
   "title" : "Bahinemo",
   "westlimit" : 142.674
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 148.985,
   "grammar15" : 1,
@@ -747,7 +1166,7 @@
   "title" : "Blablanga",
   "westlimit" : 159.271
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.337,
   "grammar15" : 1,
@@ -802,7 +1221,7 @@
   "westlimit" : 123.122
 }, {
   "audiofile" : "MR1-079-B",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.83,
   "grammar15" : 1,
@@ -820,7 +1239,7 @@
   "title" : "Biem",
   "westlimit" : 144.38
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.528,
   "grammar15" : 1,
@@ -838,7 +1257,7 @@
   "title" : "Kein",
   "westlimit" : 145.438
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.422,
   "grammar15" : 1,
@@ -855,7 +1274,7 @@
   "title" : "Bulgebi",
   "westlimit" : 146.384
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 147.496,
   "grammar15" : 2,
@@ -961,7 +1380,7 @@
   "title" : "Bonerif",
   "westlimit" : 139.181
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 143.095,
   "grammar15" : 5,
@@ -998,7 +1417,7 @@
   "title" : "Bian Marind",
   "westlimit" : 140.114
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.022,
   "grammar15" : 1,
@@ -1016,7 +1435,7 @@
   "title" : "Bo",
   "westlimit" : 140.114
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.587,
   "grammar15" : 1,
@@ -1034,7 +1453,7 @@
   "title" : "Bilakura",
   "westlimit" : 145.532
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.703,
   "grammar15" : 1,
@@ -1071,7 +1490,7 @@
   "title" : "Barapasi",
   "westlimit" : 136.912
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.745,
   "grammar15" : 1,
@@ -1126,7 +1545,7 @@
   "westlimit" : 119.324
 }, {
   "audiofile" : "MR1-086-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.801,
   "grammar15" : 1,
@@ -1197,7 +1616,7 @@
   "title" : "Buginese",
   "westlimit" : 118.012
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 155.964,
   "grammar15" : 5,
@@ -1233,7 +1652,7 @@
   "title" : "Busoa",
   "westlimit" : 122.584
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.619,
   "grammar15" : 1,
@@ -1338,7 +1757,7 @@
   "title" : "Namosi-Naitasiri-Serua",
   "westlimit" : 177.608
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.509,
   "grammar15" : 2,
@@ -1357,7 +1776,7 @@
   "title" : "Bwaidoka",
   "westlimit" : 150.225
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.727,
   "grammar15" : 1,
@@ -1374,7 +1793,7 @@
   "title" : "Boselewa",
   "westlimit" : 150.66
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.016,
   "grammar15" : 1,
@@ -1393,7 +1812,7 @@
   "westlimit" : 148.614
 }, {
   "audiofile" : "DL1-099-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 143.936,
   "grammar15" : 1,
@@ -1448,7 +1867,7 @@
   "title" : "Tairaha",
   "westlimit" : 161.612
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 152.388,
   "grammar15" : 1,
@@ -1501,7 +1920,7 @@
   "title" : "Burduna",
   "westlimit" : 114.24
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 148.986,
   "grammar15" : 1,
@@ -1519,7 +1938,7 @@
   "title" : "Binahari",
   "westlimit" : 148.684
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.921,
   "grammar15" : 2,
@@ -1557,7 +1976,7 @@
   "title" : "Bidyara",
   "westlimit" : 145.495
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 145.988,
   "grammar15" : 4,
@@ -1576,7 +1995,7 @@
   "title" : "Baruya",
   "westlimit" : 145.648
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 151.918,
   "grammar15" : 4,
@@ -1595,7 +2014,7 @@
   "title" : "Qaqet",
   "westlimit" : 151.486
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.612,
   "grammar15" : 1,
@@ -1614,7 +2033,7 @@
   "title" : "Banaro",
   "westlimit" : 144.046
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 143.739,
   "grammar15" : 4,
@@ -1633,7 +2052,7 @@
   "title" : "Boikin",
   "westlimit" : 143.209
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 146.836,
   "grammar15" : 3,
@@ -1707,7 +2126,7 @@
   "westlimit" : 164.964
 }, {
   "audiofile" : "WF1-WFCD27-foleyCh11",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.189,
   "grammar15" : 1,
@@ -1726,7 +2145,7 @@
   "title" : "Chambri",
   "westlimit" : 143.005
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.732,
   "grammar15" : 1,
@@ -1744,7 +2163,7 @@
   "title" : "Changriwa",
   "westlimit" : 143.659
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.241,
   "grammar15" : 5,
@@ -1763,7 +2182,7 @@
   "title" : "Chuave",
   "westlimit" : 145.038
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 152.06,
   "grammar15" : 1,
@@ -1798,7 +2217,7 @@
   "title" : "Campalagian",
   "westlimit" : 119.107
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.494,
   "grammar15" : 1,
@@ -1886,7 +2305,7 @@
   "title" : "Dyirbal",
   "westlimit" : 145.273
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.107,
   "grammar15" : 1,
@@ -1923,7 +2342,7 @@
   "title" : "Fataluku",
   "westlimit" : 126.856
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.235,
   "grammar15" : 1,
@@ -1957,7 +2376,7 @@
   "title" : "Dawera-Daweloor",
   "westlimit" : 129.98
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 147.716,
   "grammar15" : 1,
@@ -1994,7 +2413,7 @@
   "title" : "Dem",
   "westlimit" : 137.464
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.589,
   "grammar15" : 1,
@@ -2012,7 +2431,7 @@
   "title" : "Degenan",
   "westlimit" : 146.555
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.87,
   "grammar15" : 1,
@@ -2031,7 +2450,7 @@
   "title" : "Doga",
   "westlimit" : 149.621
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 148.848,
   "grammar15" : 1,
@@ -2085,7 +2504,7 @@
   "westlimit" : 114.227
 }, {
   "audiofile" : "HDS1-020820-00c",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 142.354,
   "grammar15" : 2,
@@ -2262,7 +2681,7 @@
   "title" : "Djambarrpuyngu",
   "westlimit" : 135.552
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.455,
   "grammar15" : 1,
@@ -2315,7 +2734,7 @@
   "title" : "Dakka",
   "westlimit" : 119.206
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.734,
   "grammar15" : 1,
@@ -2368,7 +2787,7 @@
   "title" : "Demta",
   "westlimit" : 140.119
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.261,
   "grammar15" : 1,
@@ -2425,7 +2844,7 @@
   "title" : "Western Dani",
   "westlimit" : 137.613
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.963,
   "grammar15" : 1,
@@ -2445,7 +2864,7 @@
   "westlimit" : 144.826
 }, {
   "audiofile" : "MR1-021-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 151.294,
   "grammar15" : 5,
@@ -2465,7 +2884,7 @@
   "westlimit" : 150.713
 }, {
   "audiofile" : "TD1-P112-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 148.519,
   "grammar15" : 1,
@@ -2501,7 +2920,7 @@
   "title" : "Dondo",
   "westlimit" : 120.382
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.709,
   "grammar15" : 1,
@@ -2519,7 +2938,7 @@
   "title" : "Doso",
   "westlimit" : 142.603
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.037,
   "grammar15" : 1,
@@ -2573,7 +2992,7 @@
   "title" : "Dusner",
   "westlimit" : 134.394
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 142.829,
   "grammar15" : 1,
@@ -2592,7 +3011,7 @@
   "title" : "Duna",
   "westlimit" : 142.12
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.119,
   "grammar15" : 1,
@@ -2644,7 +3063,7 @@
   "title" : "Duvle",
   "westlimit" : 137.836
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 151.292,
   "grammar15" : 1,
@@ -2661,7 +3080,7 @@
   "title" : "Duau",
   "westlimit" : 151.143
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.08,
   "grammar15" : 1,
@@ -2714,7 +3133,7 @@
   "title" : "Dyugun",
   "westlimit" : 122.171
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.604,
   "grammar15" : 1,
@@ -2732,7 +3151,7 @@
   "title" : "Eitiep",
   "westlimit" : 142.507
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 155.441,
   "grammar15" : 1,
@@ -2770,7 +3189,7 @@
   "title" : "Ekari",
   "westlimit" : 135.021
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.951,
   "grammar15" : 1,
@@ -2788,7 +3207,7 @@
   "title" : "Elepi",
   "westlimit" : 143.91
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.143,
   "grammar15" : 1,
@@ -2807,7 +3226,7 @@
   "title" : "Elkei",
   "westlimit" : 142.042
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.122,
   "grammar15" : 1,
@@ -2825,7 +3244,7 @@
   "westlimit" : 147.079
 }, {
   "audiofile" : "MR1-052-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 150.023,
   "grammar15" : 5,
@@ -2861,7 +3280,7 @@
   "title" : "Emplawas",
   "westlimit" : 129.692
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.207,
   "grammar15" : 1,
@@ -2897,7 +3316,7 @@
   "westlimit" : 121.379
 }, {
   "audiofile" : "RJL1-001-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 144.255,
   "grammar15" : 3,
@@ -2934,7 +3353,7 @@
   "title" : "Emumu",
   "westlimit" : 140.807
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.762,
   "grammar15" : 1,
@@ -3026,7 +3445,7 @@
   "title" : "Erokwanas",
   "westlimit" : 132.62
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.752,
   "grammar15" : 3,
@@ -3062,7 +3481,7 @@
   "title" : "Semimi",
   "westlimit" : 134.125
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 143.635,
   "grammar15" : 5,
@@ -3081,7 +3500,7 @@
   "title" : "Fasu",
   "westlimit" : 142.932
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.797,
   "grammar15" : 1,
@@ -3117,7 +3536,7 @@
   "title" : "Fagani",
   "westlimit" : 161.484
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.643,
   "grammar15" : 1,
@@ -3136,7 +3555,7 @@
   "westlimit" : 146.614
 }, {
   "audiofile" : "CLV1-015-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 142.004,
   "grammar15" : 3,
@@ -3155,7 +3574,7 @@
   "title" : "Faiwol",
   "westlimit" : 141
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.332,
   "grammar15" : 5,
@@ -3233,7 +3652,7 @@
   "title" : "Fijian",
   "westlimit" : 176.875
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.76,
   "grammar15" : 1,
@@ -3285,7 +3704,7 @@
   "title" : "Flinders Island",
   "westlimit" : 144.205
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 143.742,
   "grammar15" : 1,
@@ -3307,7 +3726,7 @@
   "audiofile" : "TD1-NG1-A",
   "audiofile2" : "TD1-NG3-A",
   "audiofile3" : "TD1-NG4-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 145.639,
   "grammar15" : 5,
@@ -3327,7 +3746,7 @@
   "westlimit" : 145.373
 }, {
   "audiofile" : "BH1-008-001",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 141.942,
   "grammar15" : 3,
@@ -3400,7 +3819,7 @@
   "title" : "Fwâi",
   "westlimit" : 164.829
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.295,
   "grammar15" : 1,
@@ -3418,7 +3837,7 @@
   "title" : "Gende",
   "westlimit" : 145.06
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 145.461,
   "grammar15" : 5,
@@ -3437,7 +3856,7 @@
   "title" : "Alekano",
   "westlimit" : 145.313
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.785,
   "grammar15" : 1,
@@ -3490,7 +3909,7 @@
   "title" : "Galolen",
   "westlimit" : 125.504
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.049,
   "grammar15" : 1,
@@ -3508,7 +3927,7 @@
   "title" : "Kandawo",
   "westlimit" : 144.883
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 144.847,
   "grammar15" : 5,
@@ -3527,7 +3946,7 @@
   "title" : "Gants",
   "westlimit" : 144.694
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.664,
   "grammar15" : 1,
@@ -3545,7 +3964,7 @@
   "title" : "Gal",
   "westlimit" : 145.582
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.892,
   "grammar15" : 1,
@@ -3564,7 +3983,7 @@
   "title" : "Galeya",
   "westlimit" : 150.779
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.921,
   "grammar15" : 1,
@@ -3581,7 +4000,7 @@
   "title" : "Kenati",
   "westlimit" : 145.84
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.784,
   "grammar15" : 1,
@@ -3638,7 +4057,7 @@
   "title" : "Karadjeri",
   "westlimit" : 121.551
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.691,
   "grammar15" : 1,
@@ -3656,7 +4075,7 @@
   "title" : "Niksek",
   "westlimit" : 142.209
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.234,
   "grammar15" : 1,
@@ -3728,7 +4147,7 @@
   "title" : "Gabi-Gabi",
   "westlimit" : 16.496
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 152.378,
   "grammar15" : 1,
@@ -3764,7 +4183,7 @@
   "title" : "Ganggalida",
   "westlimit" : 138.611
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 148.633,
   "grammar15" : 1,
@@ -3799,7 +4218,7 @@
   "title" : "Gugu Badhun",
   "westlimit" : 144.2
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.829,
   "grammar15" : 2,
@@ -3854,7 +4273,7 @@
   "title" : "Gurdjar",
   "westlimit" : 140.89
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 143.327,
   "grammar15" : 2,
@@ -3872,7 +4291,7 @@
   "title" : "Wipi",
   "westlimit" : 142.801
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.773,
   "grammar15" : 2,
@@ -3924,7 +4343,7 @@
   "title" : "Geser-Gorom",
   "westlimit" : 130.555
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 152.681,
   "grammar15" : 2,
@@ -4000,7 +4419,7 @@
   "title" : "Guragone",
   "westlimit" : 133.845
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.157,
   "grammar15" : 1,
@@ -4018,7 +4437,7 @@
   "title" : "Ganglau",
   "westlimit" : 146.104
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.53,
   "grammar15" : 1,
@@ -4036,7 +4455,7 @@
   "westlimit" : 147.441
 }, {
   "audiofile" : "CLV1-014-A1",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.252,
   "grammar15" : 1,
@@ -4073,7 +4492,7 @@
   "title" : "Ghanongga",
   "westlimit" : 156.505
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 147.434,
   "grammar15" : 2,
@@ -4130,7 +4549,7 @@
   "title" : "Gilbertese",
   "westlimit" : -174.547
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.428,
   "grammar15" : 2,
@@ -4148,7 +4567,7 @@
   "title" : "Gimi",
   "westlimit" : 145
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 106.523,
   "grammar15" : 1,
@@ -4182,7 +4601,7 @@
   "title" : "Giyug",
   "westlimit" : 130.009
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.486,
   "grammar15" : 1,
@@ -4252,7 +4671,7 @@
   "title" : "Gula'alaa",
   "westlimit" : 161.001
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.648,
   "grammar15" : 1,
@@ -4289,7 +4708,7 @@
   "title" : "Gooniyandi",
   "westlimit" : 125.595
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.831,
   "grammar15" : 1,
@@ -4327,7 +4746,7 @@
   "title" : "Gumatj",
   "westlimit" : 136.735
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.421,
   "grammar15" : 1,
@@ -4345,7 +4764,7 @@
   "title" : "Guntai",
   "westlimit" : 141.086
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.233,
   "grammar15" : 1,
@@ -4363,7 +4782,7 @@
   "title" : "Gnau",
   "westlimit" : 142.159
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.645,
   "grammar15" : 1,
@@ -4382,7 +4801,7 @@
 }, {
   "audiofile" : "CLV1-173-A",
   "audiofile2" : "CLV1-174-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.361,
   "grammar15" : 1,
@@ -4471,7 +4890,7 @@
   "title" : "Gorontalo",
   "westlimit" : 121.246
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 144.559,
   "grammar15" : 1,
@@ -4490,7 +4909,7 @@
   "title" : "Taiap",
   "westlimit" : 144.453
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.431,
   "grammar15" : 1,
@@ -4527,7 +4946,7 @@
   "title" : "Ghari",
   "westlimit" : 159.584
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.625,
   "grammar15" : 1,
@@ -4563,7 +4982,7 @@
   "title" : "Gresi",
   "westlimit" : 140.192
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.429,
   "grammar15" : 1,
@@ -4580,7 +4999,7 @@
   "title" : "Gweda",
   "westlimit" : 150.414
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.632,
   "grammar15" : 1,
@@ -4614,7 +5033,7 @@
   "title" : "Guramalum",
   "westlimit" : -8.245
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.744,
   "grammar15" : 1,
@@ -4632,7 +5051,7 @@
   "title" : "Nema",
   "westlimit" : 146.614
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.033,
   "grammar15" : 1,
@@ -4704,7 +5123,7 @@
   "title" : "Gunwinggu",
   "westlimit" : 132.582
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.899,
   "grammar15" : 1,
@@ -4721,7 +5140,7 @@
   "title" : "Duwet",
   "westlimit" : 146.782
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 145.059,
   "grammar15" : 5,
@@ -4758,7 +5177,7 @@
   "title" : "Kuku-Yalanji",
   "westlimit" : 144.889
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.921,
   "grammar15" : 3,
@@ -4813,7 +5232,7 @@
   "title" : "Kwini",
   "westlimit" : 126.481
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.752,
   "grammar15" : 1,
@@ -4922,7 +5341,7 @@
   "title" : "Hatam",
   "westlimit" : 133.825
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 154.895,
   "grammar15" : 1,
@@ -4941,7 +5360,7 @@
   "title" : "Hahon",
   "westlimit" : 154.708
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 143.028,
   "grammar15" : 3,
@@ -4959,7 +5378,7 @@
   "title" : "Hewa",
   "westlimit" : 142.075
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 154.674,
   "grammar15" : 1,
@@ -5051,7 +5470,7 @@
   "title" : "Helong",
   "westlimit" : 123.293
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.313,
   "grammar15" : 1,
@@ -5068,7 +5487,7 @@
   "title" : "Haigwai",
   "westlimit" : 150.198
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.373,
   "grammar15" : 1,
@@ -5103,7 +5522,7 @@
   "title" : "Seit-Kaitetu",
   "westlimit" : 128.011
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 155.47,
   "grammar15" : 5,
@@ -5125,7 +5544,7 @@
   "audiofile" : "CLV1-030-A",
   "audiofile2" : "CLV1-031-A",
   "audiofile3" : "CLV1-039-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 155.97,
   "grammar15" : 2,
@@ -5144,7 +5563,7 @@
   "title" : "Hiri Motu",
   "westlimit" : 140.86
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 146.681,
   "grammar15" : 4,
@@ -5200,7 +5619,7 @@
   "title" : "Hoava",
   "westlimit" : 157.539
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.893,
   "grammar15" : 1,
@@ -5217,7 +5636,7 @@
   "title" : "Mari",
   "westlimit" : 145.763
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.943,
   "grammar15" : 2,
@@ -5236,7 +5655,7 @@
   "title" : "Hote",
   "westlimit" : 146.795
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 93.61,
   "grammar15" : 0,
@@ -5272,7 +5691,7 @@
   "title" : "Haruku",
   "westlimit" : 128.385
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 19.449,
   "grammar15" : 0,
@@ -5342,7 +5761,7 @@
   "title" : "Huaulu",
   "westlimit" : 129.171
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.7,
   "grammar15" : 1,
@@ -5360,7 +5779,7 @@
   "title" : "Humene",
   "westlimit" : 147.424
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.474,
   "grammar15" : 1,
@@ -5397,7 +5816,7 @@
   "westlimit" : 128.559
 }, {
   "audiofile" : "TD1-M001-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.752,
   "grammar15" : 1,
@@ -5510,7 +5929,7 @@
   "westlimit" : 166.512
 }, {
   "audiofile" : "GJ1-001-20081018_Tessa_Nau",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 143.633,
   "grammar15" : 2,
@@ -5532,7 +5951,7 @@
   "audiofile" : "TD1-2178-2178A",
   "audiofile2" : "TD1-2278-2278A",
   "audiofile3" : "TD1-2378-2378A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 145.285,
   "grammar15" : 3,
@@ -5589,7 +6008,7 @@
   "title" : "Ibu",
   "westlimit" : 127.521
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.622,
   "grammar15" : 1,
@@ -5624,7 +6043,7 @@
   "title" : "Idaté",
   "westlimit" : 125.731
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.873,
   "grammar15" : 1,
@@ -5641,7 +6060,7 @@
   "title" : "Igana",
   "westlimit" : 144.808
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.88,
   "grammar15" : 1,
@@ -5659,7 +6078,7 @@
   "title" : "Kanggape",
   "westlimit" : 144.752
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.744,
   "grammar15" : 1,
@@ -5763,7 +6182,7 @@
   "title" : "Ili'uun",
   "westlimit" : 125.719
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.029,
   "grammar15" : 1,
@@ -5781,7 +6200,7 @@
   "title" : "Anamgura",
   "westlimit" : 144.954
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.205,
   "grammar15" : 2,
@@ -5800,7 +6219,7 @@
   "title" : "Imonda",
   "westlimit" : 141.137
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.24,
   "grammar15" : 1,
@@ -5835,7 +6254,7 @@
   "title" : "Imroing",
   "westlimit" : 129.63
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.591,
   "grammar15" : 1,
@@ -5854,7 +6273,7 @@
   "westlimit" : 145.487
 }, {
   "audiofile" : "MR1-064-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.676,
   "grammar15" : 1,
@@ -5872,7 +6291,7 @@
   "title" : "Tuma-Irumu",
   "westlimit" : 146.543
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.266,
   "grammar15" : 1,
@@ -5890,7 +6309,7 @@
   "title" : "Ipili",
   "westlimit" : 142.912
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.923,
   "grammar15" : 1,
@@ -5962,7 +6381,7 @@
   "title" : "Kamberau",
   "westlimit" : 133.359
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.536,
   "grammar15" : 1,
@@ -5997,7 +6416,7 @@
   "title" : "Masimasi",
   "westlimit" : 139.02
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.699,
   "grammar15" : 1,
@@ -6033,7 +6452,7 @@
   "title" : "Itik",
   "westlimit" : 139.319
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.992,
   "grammar15" : 2,
@@ -6068,7 +6487,7 @@
   "title" : "Iwur",
   "westlimit" : 140.645
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 142.251,
   "grammar15" : 2,
@@ -6087,7 +6506,7 @@
   "title" : "Sepik Iwam",
   "westlimit" : 141.982
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 147.863,
   "grammar15" : 2,
@@ -6265,7 +6684,7 @@
   "title" : "Arandai",
   "westlimit" : 132.585
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 133.381,
   "grammar15" : 1,
@@ -6357,7 +6776,7 @@
   "title" : "Djingili",
   "westlimit" : 133.234
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.763,
   "grammar15" : 1,
@@ -6376,7 +6795,7 @@
   "westlimit" : 145.649
 }, {
   "audiofile" : "CLV1-012-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.381,
   "grammar15" : 1,
@@ -6395,7 +6814,7 @@
   "title" : "Kubo",
   "westlimit" : 141.985
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.717,
   "grammar15" : 1,
@@ -6473,7 +6892,7 @@
   "audiofile" : "TD1-P002-A",
   "audiofile2" : "TD1-P003-A",
   "audiofile3" : "TD1-P004-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 147.626,
   "grammar15" : 2,
@@ -6492,7 +6911,7 @@
   "title" : "Grass Koiari",
   "westlimit" : 147.249
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.138,
   "grammar15" : 1,
@@ -6511,7 +6930,7 @@
   "title" : "Iwal",
   "westlimit" : 146.828
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 145.894,
   "grammar15" : 5,
@@ -6530,7 +6949,7 @@
   "title" : "Kamano",
   "westlimit" : 145.562
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 147.184,
   "grammar15" : 1,
@@ -6573,7 +6992,7 @@
 }, {
   "audiofile" : "MR1-080-A",
   "audiofile2" : "MR1-081-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.915,
   "grammar15" : 1,
@@ -6593,7 +7012,7 @@
 }, {
   "audiofile" : "WF1-WFCD14-foleyKb11",
   "audiofile2" : "WF1-WFCD15-foleyKb21",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 144.192,
   "grammar15" : 1,
@@ -6612,7 +7031,7 @@
   "title" : "Ap Ma",
   "westlimit" : 143.978
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.216,
   "grammar15" : 1,
@@ -6648,7 +7067,7 @@
   "title" : "Ngkâlmpw Kanum",
   "westlimit" : 140.617
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.291,
   "grammar15" : 2,
@@ -6665,7 +7084,7 @@
   "title" : "Kela",
   "westlimit" : 146.978
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.469,
   "grammar15" : 1,
@@ -6684,7 +7103,7 @@
   "title" : "Kinalakna",
   "westlimit" : 147.416
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.761,
   "grammar15" : 1,
@@ -6719,7 +7138,7 @@
   "title" : "Yankunytjatjara",
   "westlimit" : 131.496
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 151.346,
   "grammar15" : 1,
@@ -6827,7 +7246,7 @@
   "title" : "Kemak",
   "westlimit" : 125.004
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 143.87,
   "grammar15" : 5,
@@ -6863,7 +7282,7 @@
   "title" : "Kawe",
   "westlimit" : 130.084
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 147.623,
   "grammar15" : 1,
@@ -6956,7 +7375,7 @@
   "title" : "Kumbainggar",
   "westlimit" : 152.766
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.332,
   "grammar15" : 1,
@@ -7097,7 +7516,7 @@
   "title" : "Kehu",
   "westlimit" : 135.9
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.202,
   "grammar15" : 3,
@@ -7132,7 +7551,7 @@
   "title" : "Kapori",
   "westlimit" : 139.738
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.165,
   "grammar15" : 1,
@@ -7150,7 +7569,7 @@
   "title" : "Kasua",
   "westlimit" : 142.822
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 148.388,
   "grammar15" : 1,
@@ -7187,7 +7606,7 @@
   "title" : "Kimaama",
   "westlimit" : 137.615
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.359,
   "grammar15" : 1,
@@ -7209,7 +7628,7 @@
   "audiofile" : "MR1-025-A",
   "audiofile2" : "RL1-002-A",
   "audiofile3" : "RL1-003-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 151.2,
   "grammar15" : 3,
@@ -7246,7 +7665,7 @@
   "title" : "Kosadle",
   "westlimit" : 140.054
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.997,
   "grammar15" : 1,
@@ -7264,7 +7683,7 @@
   "title" : "Kis",
   "westlimit" : 143.923
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.848,
   "grammar15" : 2,
@@ -7283,7 +7702,7 @@
   "westlimit" : 142.215
 }, {
   "audiofile" : "CLV1-028-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 144.87,
   "grammar15" : 3,
@@ -7357,7 +7776,7 @@
   "title" : "Coastal Konjo",
   "westlimit" : 120.142
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 143.648,
   "grammar15" : 5,
@@ -7465,7 +7884,7 @@
   "title" : "Kurudu",
   "westlimit" : 136.967
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 144.073,
   "grammar15" : 3,
@@ -7484,7 +7903,7 @@
   "title" : "East Kewa",
   "westlimit" : 143.789
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.082,
   "grammar15" : 1,
@@ -7520,7 +7939,7 @@
   "title" : "Kwerisa",
   "westlimit" : 138.082
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.73,
   "grammar15" : 2,
@@ -7629,7 +8048,7 @@
   "title" : "Gamilaraay",
   "westlimit" : 147.687
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.168,
   "grammar15" : 1,
@@ -7663,7 +8082,7 @@
   "title" : "Kalumpang",
   "westlimit" : 119.185
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.28,
   "grammar15" : 1,
@@ -7681,7 +8100,7 @@
   "title" : "Migum",
   "westlimit" : 146.144
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.216,
   "grammar15" : 1,
@@ -7700,7 +8119,7 @@
   "westlimit" : 146.202
 }, {
   "audiofile" : "TD1-P01080-P01080A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 144.523,
   "grammar15" : 2,
@@ -7719,7 +8138,7 @@
   "title" : "Rumu",
   "westlimit" : 143.834
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.037,
   "grammar15" : 1,
@@ -7756,7 +8175,7 @@
   "title" : "Lindu",
   "westlimit" : 120
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.501,
   "grammar15" : 2,
@@ -7809,7 +8228,7 @@
   "title" : "Kabola",
   "westlimit" : 124.484
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 9.067,
   "grammar15" : 1,
@@ -7827,7 +8246,7 @@
   "title" : "Kare",
   "westlimit" : 8.881
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 147.851,
   "grammar15" : 2,
@@ -7846,7 +8265,7 @@
   "title" : "Kâte",
   "westlimit" : 147.663
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 144.788,
   "grammar15" : 3,
@@ -7865,7 +8284,7 @@
   "title" : "Kalam",
   "westlimit" : 144.383
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.976,
   "grammar15" : 2,
@@ -7884,7 +8303,7 @@
   "title" : "Awtuw",
   "westlimit" : 141.88
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 142.799,
   "grammar15" : 5,
@@ -7903,7 +8322,7 @@
   "title" : "Kwoma",
   "westlimit" : 142.53
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 143.924,
   "grammar15" : 5,
@@ -7940,7 +8359,7 @@
   "title" : "Kemtuik",
   "westlimit" : 140.245
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 145.6,
   "grammar15" : 3,
@@ -7959,7 +8378,7 @@
   "title" : "Kanite",
   "westlimit" : 145.512
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.834,
   "grammar15" : 2,
@@ -7995,7 +8414,7 @@
   "title" : "Konda",
   "westlimit" : 131.879
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.228,
   "grammar15" : 1,
@@ -8012,7 +8431,7 @@
   "title" : "Kaningra",
   "westlimit" : 143.156
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.418,
   "grammar15" : 1,
@@ -8031,7 +8450,7 @@
   "title" : "Tabo",
   "westlimit" : 143.193
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 153.113,
   "grammar15" : 1,
@@ -8065,7 +8484,7 @@
   "title" : "Kodi",
   "westlimit" : 118.934
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 21.027,
   "grammar15" : 1,
@@ -8083,7 +8502,7 @@
   "title" : "Kol",
   "westlimit" : 18.862
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.71,
   "grammar15" : 1,
@@ -8120,7 +8539,7 @@
   "title" : "Kosraean",
   "westlimit" : 162.9
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.563,
   "grammar15" : 1,
@@ -8155,7 +8574,7 @@
   "title" : "Koba",
   "westlimit" : 134.586
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 147.416,
   "grammar15" : 2,
@@ -8229,7 +8648,7 @@
   "title" : "Korupun-Sela",
   "westlimit" : 139.502
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 149.332,
   "grammar15" : 4,
@@ -8286,7 +8705,7 @@
   "title" : "Kafoa",
   "westlimit" : 124.41
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 144.656,
   "grammar15" : 5,
@@ -8305,7 +8724,7 @@
   "westlimit" : 144.264
 }, {
   "audiofile" : "TD1-P014-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 147.816,
   "grammar15" : 3,
@@ -8324,7 +8743,7 @@
   "title" : "Mountain Koiali",
   "westlimit" : 146.952
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.212,
   "grammar15" : 2,
@@ -8342,7 +8761,7 @@
   "title" : "Mum",
   "westlimit" : 144.906
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 147.943,
   "grammar15" : 1,
@@ -8361,7 +8780,7 @@
   "title" : "Kovai",
   "westlimit" : 147.78
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 148.132,
   "grammar15" : 2,
@@ -8380,7 +8799,7 @@
   "title" : "Doromu-Koki",
   "westlimit" : 147.839
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.168,
   "grammar15" : 1,
@@ -8401,7 +8820,7 @@
   "audiofile" : "TD1-P018-A",
   "audiofile2" : "TD1-P021-A",
   "audiofile3" : "TD1-P022-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 147.263,
   "grammar15" : 1,
@@ -8420,7 +8839,7 @@
   "title" : "Koitabu",
   "westlimit" : 146.896
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 155.831,
   "grammar15" : 1,
@@ -8438,7 +8857,7 @@
   "title" : "Koromira",
   "westlimit" : 155.653
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.955,
   "grammar15" : 1,
@@ -8457,7 +8876,7 @@
   "title" : "Kyenele",
   "westlimit" : 143.755
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 152.917,
   "grammar15" : 1,
@@ -8514,7 +8933,7 @@
   "audiofile" : "MR1-036-A",
   "audiofile2" : "TD1-P02776-A",
   "audiofile3" : "TD1-P02876-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 152.4,
   "grammar15" : 3,
@@ -8535,7 +8954,7 @@
 }, {
   "audiofile" : "MR1-030-A",
   "audiofile2" : "TD1-P00680-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.04,
   "grammar15" : 1,
@@ -8573,7 +8992,7 @@
   "title" : "Kusaghe",
   "westlimit" : 157.317
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.356,
   "grammar15" : 2,
@@ -8591,7 +9010,7 @@
   "title" : "Krisa",
   "westlimit" : 141.25
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.771,
   "grammar15" : 1,
@@ -8610,7 +9029,7 @@
   "title" : "Uare",
   "westlimit" : 147.604
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.632,
   "grammar15" : 1,
@@ -8627,7 +9046,7 @@
   "title" : "Kumalu",
   "westlimit" : 146.508
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 147.565,
   "grammar15" : 1,
@@ -8698,7 +9117,7 @@
   "title" : "North Muyu",
   "westlimit" : 140.68
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.084,
   "grammar15" : 1,
@@ -8717,7 +9136,7 @@
   "title" : "Kurti",
   "westlimit" : 146.988
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 151.695,
   "grammar15" : 4,
@@ -8771,7 +9190,7 @@
   "title" : "Ketum",
   "westlimit" : 140.523
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 151.05,
   "grammar15" : 1,
@@ -8789,7 +9208,7 @@
   "title" : "'Auhelawa",
   "westlimit" : 150.954
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 145.165,
   "grammar15" : 5,
@@ -8825,7 +9244,7 @@
   "title" : "Kepo'",
   "westlimit" : 120.666
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.448,
   "grammar15" : 1,
@@ -8844,7 +9263,7 @@
   "title" : "Kumukio",
   "westlimit" : 147.374
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 147.166,
   "grammar15" : 5,
@@ -8916,7 +9335,7 @@
   "title" : "Kuuku-Ya'u",
   "westlimit" : 142.888
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.937,
   "grammar15" : 1,
@@ -8954,7 +9373,7 @@
 }, {
   "audiofile" : "CLV1-034-A",
   "audiofile2" : "CLV1-043-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.783,
   "grammar15" : 1,
@@ -9170,7 +9589,7 @@
   "title" : "Kowiai",
   "westlimit" : 133.315
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.933,
   "grammar15" : 2,
@@ -9189,7 +9608,7 @@
   "title" : "Kwanga",
   "westlimit" : 142.488
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.669,
   "grammar15" : 2,
@@ -9246,7 +9665,7 @@
   "audiofile" : "MR1-075-A",
   "audiofile2" : "MR1-076-A",
   "audiofile3" : "MR1-077-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 143.685,
   "grammar15" : 2,
@@ -9282,7 +9701,7 @@
   "title" : "Smärky Kanum",
   "westlimit" : 140.773
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.021,
   "grammar15" : 1,
@@ -9300,7 +9719,7 @@
   "title" : "Koro",
   "westlimit" : 140.773
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.717,
   "grammar15" : 1,
@@ -9317,7 +9736,7 @@
   "title" : "Koiwat",
   "westlimit" : 143.522
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.152,
   "grammar15" : 1,
@@ -9335,7 +9754,7 @@
   "title" : "Konai",
   "westlimit" : 141.985
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.518,
   "grammar15" : 1,
@@ -9354,7 +9773,7 @@
   "title" : "Kerewo",
   "westlimit" : 144.099
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.249,
   "grammar15" : 1,
@@ -9390,7 +9809,7 @@
   "title" : "Karey",
   "westlimit" : 134.356
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.564,
   "grammar15" : 1,
@@ -9446,7 +9865,7 @@
   "title" : "Kayagar",
   "westlimit" : 138.593
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 154.976,
   "grammar15" : 2,
@@ -9465,7 +9884,7 @@
   "title" : "Rapoisi",
   "westlimit" : 154.692
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.106,
   "grammar15" : 1,
@@ -9517,7 +9936,7 @@
   "title" : "Kadai",
   "westlimit" : 125.084
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 145.684,
   "grammar15" : 5,
@@ -9712,7 +10131,7 @@
   "title" : "Lauje",
   "westlimit" : 119.915
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 152.719,
   "grammar15" : 1,
@@ -9730,7 +10149,7 @@
   "title" : "Label",
   "westlimit" : 152.645
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.937,
   "grammar15" : 1,
@@ -9747,7 +10166,7 @@
   "title" : "Wampar",
   "westlimit" : 146.386
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.969,
   "grammar15" : 1,
@@ -9764,7 +10183,7 @@
   "title" : "Labu",
   "westlimit" : 146.837
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 151.84,
   "grammar15" : 1,
@@ -9886,7 +10305,7 @@
   "title" : "Lisela",
   "westlimit" : 126.011
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 150.54,
   "grammar15" : 5,
@@ -9939,7 +10358,7 @@
   "title" : "Lisabata-Nuniali",
   "westlimit" : 128.112
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.454,
   "grammar15" : 1,
@@ -9957,7 +10376,7 @@
   "title" : "Lemio",
   "westlimit" : 146.428
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.337,
   "grammar15" : 1,
@@ -9976,7 +10395,7 @@
   "title" : "Leipon",
   "westlimit" : 147.208
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.011,
   "grammar15" : 1,
@@ -9994,7 +10413,7 @@
   "title" : "Lembena",
   "westlimit" : 143.77
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.764,
   "grammar15" : 1,
@@ -10013,7 +10432,7 @@
   "title" : "Lenkau",
   "westlimit" : 147.707
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.571,
   "grammar15" : 1,
@@ -10031,7 +10450,7 @@
   "westlimit" : 150.496
 }, {
   "audiofile" : "MR1-043-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 150.571,
   "grammar15" : 5,
@@ -10198,7 +10617,7 @@
   "title" : "Lengo",
   "westlimit" : 160.208
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.374,
   "grammar15" : 1,
@@ -10255,7 +10674,7 @@
   "title" : "Laha",
   "westlimit" : 103.649
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.696,
   "grammar15" : 1,
@@ -10274,7 +10693,7 @@
   "title" : "Likum",
   "westlimit" : 146.693
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 146.719,
   "grammar15" : 2,
@@ -10293,7 +10712,7 @@
   "title" : "Nyindrou",
   "westlimit" : 146.506
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 152.691,
   "grammar15" : 1,
@@ -10414,7 +10833,7 @@
   "title" : "Lakalei",
   "westlimit" : 125.619
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.268,
   "grammar15" : 1,
@@ -10432,7 +10851,7 @@
   "title" : "Laeko-Libuat",
   "westlimit" : 142.205
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 11.986,
   "grammar15" : 2,
@@ -10468,7 +10887,7 @@
   "title" : "Lole",
   "westlimit" : 123.017
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.03,
   "grammar15" : 1,
@@ -10594,7 +11013,7 @@
   "title" : "South Lembata",
   "westlimit" : 123.481
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.54,
   "grammar15" : 1,
@@ -10697,7 +11116,7 @@
   "title" : "Lamboya",
   "westlimit" : 119.265
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 155.796,
   "grammar15" : 1,
@@ -10714,7 +11133,7 @@
   "title" : "Daantanai'",
   "westlimit" : 155.699
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.947,
   "grammar15" : 1,
@@ -10768,7 +11187,7 @@
   "title" : "Saluan",
   "westlimit" : 121.845
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 147.39,
   "grammar15" : 2,
@@ -10787,7 +11206,7 @@
   "title" : "Lou",
   "westlimit" : 147.301
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 147.361,
   "grammar15" : 3,
@@ -10875,7 +11294,7 @@
   "title" : "Lorang",
   "westlimit" : 134.391
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.505,
   "grammar15" : 1,
@@ -10911,7 +11330,7 @@
   "title" : "Latu",
   "westlimit" : 128.645
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.274,
   "grammar15" : 1,
@@ -11092,7 +11511,7 @@
   "title" : "North Moluccan Malay",
   "westlimit" : 128.074
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.796,
   "grammar15" : 3,
@@ -11112,7 +11531,7 @@
 }, {
   "audiofile" : "MR1-066-A",
   "audiofile2" : "MR1-068-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.275,
   "grammar15" : 1,
@@ -11130,7 +11549,7 @@
   "title" : "Malol",
   "westlimit" : 142.213
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 149.319,
   "grammar15" : 2,
@@ -11149,7 +11568,7 @@
   "title" : "Maisin",
   "westlimit" : 148.611
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 144.81,
   "grammar15" : 4,
@@ -11168,7 +11587,7 @@
   "title" : "Maring",
   "westlimit" : 144.475
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.81,
   "grammar15" : 1,
@@ -11185,7 +11604,7 @@
   "title" : "Mari",
   "westlimit" : 144.475
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.859,
   "grammar15" : 1,
@@ -11202,7 +11621,7 @@
   "title" : "Bitur",
   "westlimit" : 142.561
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.256,
   "grammar15" : 1,
@@ -11223,7 +11642,7 @@
 }, {
   "audiofile" : "TD1-P039-A",
   "audiofile2" : "TD1-P049-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 148.549,
   "grammar15" : 1,
@@ -11242,7 +11661,7 @@
   "title" : "Ese",
   "westlimit" : 148.203
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.237,
   "grammar15" : 2,
@@ -11260,7 +11679,7 @@
   "title" : "Menya",
   "westlimit" : 145.904
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.155,
   "grammar15" : 1,
@@ -11278,7 +11697,7 @@
   "title" : "Minanibai",
   "westlimit" : 143.867
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.509,
   "grammar15" : 1,
@@ -11295,7 +11714,7 @@
   "title" : "South Watut",
   "westlimit" : 146.31
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.619,
   "grammar15" : 1,
@@ -11313,7 +11732,7 @@
   "title" : "Mawan",
   "westlimit" : 145.558
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.079,
   "grammar15" : 1,
@@ -11331,7 +11750,7 @@
   "title" : "Morigi",
   "westlimit" : 143.674
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.784,
   "grammar15" : 1,
@@ -11366,7 +11785,7 @@
   "title" : "Mandar",
   "westlimit" : 118.774
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 148.565,
   "grammar15" : 1,
@@ -11385,7 +11804,7 @@
   "title" : "Maria",
   "westlimit" : 148.041
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.102,
   "grammar15" : 1,
@@ -11421,7 +11840,7 @@
   "title" : "Mara",
   "westlimit" : 134.277
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 144.6,
   "grammar15" : 1,
@@ -11441,7 +11860,7 @@
   "westlimit" : 144.079
 }, {
   "audiofile" : "MR1-095-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 152.129,
   "grammar15" : 3,
@@ -11481,7 +11900,7 @@
 }, {
   "audiofile" : "MR1-031-A",
   "audiofile2" : "TD1-P01480-P01480A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 146.826,
   "grammar15" : 5,
@@ -11537,7 +11956,7 @@
   "title" : "Miriwung",
   "westlimit" : 128.006
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.93,
   "grammar15" : 1,
@@ -11557,7 +11976,7 @@
   "audiofile" : "CLV1-180-A",
   "audiofile2" : "CLV1-181-A1",
   "audiofile3" : "CLV1-183-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 147.535,
   "grammar15" : 3,
@@ -11615,7 +12034,7 @@
   "title" : "Marithiel",
   "westlimit" : 130.122
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.43,
   "grammar15" : 1,
@@ -11670,7 +12089,7 @@
   "westlimit" : 139.355
 }, {
   "audiofile" : "MR1-088-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 148.583,
   "grammar15" : 2,
@@ -11706,7 +12125,7 @@
   "title" : "Mambae",
   "westlimit" : 125.147
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.988,
   "grammar15" : 1,
@@ -11724,7 +12143,7 @@
   "westlimit" : 143.942
 }, {
   "audiofile" : "TD1-P037-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 149.759,
   "grammar15" : 2,
@@ -11743,7 +12162,7 @@
   "title" : "Mailu",
   "westlimit" : 148.534
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.632,
   "grammar15" : 1,
@@ -11779,7 +12198,7 @@
   "title" : "Margu",
   "westlimit" : 132.563
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.482,
   "grammar15" : 1,
@@ -11833,7 +12252,7 @@
   "title" : "Mor",
   "westlimit" : 135.585
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.824,
   "grammar15" : 2,
@@ -11851,7 +12270,7 @@
   "title" : "Akoye",
   "westlimit" : 145.515
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.324,
   "grammar15" : 1,
@@ -11870,7 +12289,7 @@
   "westlimit" : 145.242
 }, {
   "audiofile" : "MR1-084-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.787,
   "grammar15" : 1,
@@ -11889,7 +12308,7 @@
   "westlimit" : 145.77
 }, {
   "audiofile" : "MR1-078-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.449,
   "grammar15" : 1,
@@ -11906,7 +12325,7 @@
   "title" : "Medebur",
   "westlimit" : 145.401
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.429,
   "grammar15" : 1,
@@ -11923,7 +12342,7 @@
   "title" : "Ma",
   "westlimit" : 146.299
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 142.459,
   "grammar15" : 1,
@@ -11979,7 +12398,7 @@
   "title" : "Kupang Malay",
   "westlimit" : 123.293
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 148.477,
   "grammar15" : 1,
@@ -11997,7 +12416,7 @@
   "title" : "Moikodi",
   "westlimit" : 148.146
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.677,
   "grammar15" : 1,
@@ -12069,7 +12488,7 @@
   "title" : "Makasae",
   "westlimit" : 126.057
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 142.966,
   "grammar15" : 2,
@@ -12088,7 +12507,7 @@
   "title" : "Manambu",
   "westlimit" : 142.758
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 147.819,
   "grammar15" : 1,
@@ -12143,7 +12562,7 @@
   "title" : "Malango",
   "westlimit" : 159.874
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.808,
   "grammar15" : 2,
@@ -12198,7 +12617,7 @@
   "title" : "Momina",
   "westlimit" : 139.707
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.489,
   "grammar15" : 1,
@@ -12216,7 +12635,7 @@
   "title" : "Musar",
   "westlimit" : 145.337
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.758,
   "grammar15" : 2,
@@ -12234,7 +12653,7 @@
   "title" : "Mangga Buang",
   "westlimit" : 146.611
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.475,
   "grammar15" : 1,
@@ -12252,7 +12671,7 @@
   "title" : "Siawi",
   "westlimit" : 141.364
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 145.312,
   "grammar15" : 5,
@@ -12272,7 +12691,7 @@
   "westlimit" : 145.082
 }, {
   "audiofile" : "MR1-092-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.67,
   "grammar15" : 1,
@@ -12289,7 +12708,7 @@
   "title" : "Malalamai",
   "westlimit" : 146.614
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 152.129,
   "grammar15" : 3,
@@ -12309,7 +12728,7 @@
   "westlimit" : 151.805
 }, {
   "audiofile" : "MR1-091-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 148.114,
   "grammar15" : 3,
@@ -12350,7 +12769,7 @@
   "title" : "Muna",
   "westlimit" : 122.268
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.571,
   "grammar15" : 1,
@@ -12499,7 +12918,7 @@
   "westlimit" : -89.489
 }, {
   "audiofile" : "MR1-015-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.713,
   "grammar15" : 1,
@@ -12597,7 +13016,7 @@
   "title" : "Martu Wangka",
   "westlimit" : 119.265
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.424,
   "grammar15" : 1,
@@ -12614,7 +13033,7 @@
   "title" : "Middle Watut",
   "westlimit" : 146.217
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.172,
   "grammar15" : 1,
@@ -12631,7 +13050,7 @@
   "title" : "Mindiri",
   "westlimit" : 146.103
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.619,
   "grammar15" : 1,
@@ -12648,7 +13067,7 @@
   "title" : "Miu",
   "westlimit" : 149.494
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 147.784,
   "grammar15" : 2,
@@ -12686,7 +13105,7 @@
   "title" : "Vangunu",
   "westlimit" : 157.865
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 144.838,
   "grammar15" : 5,
@@ -12708,7 +13127,7 @@
   "audiofile" : "DG3-001-A",
   "audiofile2" : "DG3-002-A",
   "audiofile3" : "DG3-003-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 141.751,
   "grammar15" : 5,
@@ -12727,7 +13146,7 @@
   "title" : "Mian",
   "westlimit" : 141.295
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.785,
   "grammar15" : 1,
@@ -12746,7 +13165,7 @@
   "westlimit" : 146.709
 }, {
   "audiofile" : "MR1-016-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 153.039,
   "grammar15" : 4,
@@ -12816,7 +13235,7 @@
   "title" : "Mangole",
   "westlimit" : 125.625
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.664,
   "grammar15" : 1,
@@ -12994,7 +13413,7 @@
   "title" : "West Makian",
   "westlimit" : 127.077
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.633,
   "grammar15" : 1,
@@ -13012,7 +13431,7 @@
   "title" : "Mosimo",
   "westlimit" : 145.578
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.652,
   "grammar15" : 1,
@@ -13067,7 +13486,7 @@
   "westlimit" : 119.77
 }, {
   "audiofile" : "MR1-090-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.083,
   "grammar15" : 1,
@@ -13343,7 +13762,7 @@
   "title" : "West Masela",
   "westlimit" : 129.807
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.988,
   "grammar15" : 1,
@@ -13361,7 +13780,7 @@
   "title" : "Musom",
   "westlimit" : 146.872
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.019,
   "grammar15" : 1,
@@ -13379,7 +13798,7 @@
   "title" : "Moresada",
   "westlimit" : 144.957
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.992,
   "grammar15" : 1,
@@ -13397,7 +13816,7 @@
   "title" : "Aruamu",
   "westlimit" : 144.691
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.822,
   "grammar15" : 1,
@@ -13416,7 +13835,7 @@
   "title" : "Momare",
   "westlimit" : 147.759
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.588,
   "grammar15" : 1,
@@ -13453,7 +13872,7 @@
   "title" : "Mono",
   "westlimit" : 110.861
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 144.4,
   "grammar15" : 4,
@@ -13508,7 +13927,7 @@
   "title" : "Munggui",
   "westlimit" : 135.869
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 149.506,
   "grammar15" : 2,
@@ -13546,7 +13965,7 @@
   "title" : "Moskona",
   "westlimit" : 132.753
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.536,
   "grammar15" : 1,
@@ -13564,7 +13983,7 @@
   "title" : "Asaro'o",
   "westlimit" : 146.48
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.382,
   "grammar15" : 1,
@@ -13583,7 +14002,7 @@
   "title" : "Nabi",
   "westlimit" : 142.275
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.389,
   "grammar15" : 1,
@@ -13602,7 +14021,7 @@
   "title" : "Maiwala",
   "westlimit" : 150.271
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.258,
   "grammar15" : 1,
@@ -13621,7 +14040,7 @@
   "westlimit" : 143.915
 }, {
   "audiofile" : "MR1-082-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 145.082,
   "grammar15" : 5,
@@ -13657,7 +14076,7 @@
   "title" : "Mamboru",
   "westlimit" : 119.38
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.841,
   "grammar15" : 1,
@@ -13692,7 +14111,7 @@
   "title" : "Mbara",
   "westlimit" : 143.659
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.571,
   "grammar15" : 3,
@@ -13748,7 +14167,7 @@
   "title" : "Duri",
   "westlimit" : 119.691
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.485,
   "grammar15" : 1,
@@ -13818,7 +14237,7 @@
   "title" : "Meoswar",
   "westlimit" : 134.33
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 151.087,
   "grammar15" : 1,
@@ -13835,7 +14254,7 @@
   "title" : "Mwatebu",
   "westlimit" : 151.044
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.742,
   "grammar15" : 1,
@@ -13855,7 +14274,7 @@
   "westlimit" : 143.619
 }, {
   "audiofile" : "MR1-014-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.056,
   "grammar15" : 1,
@@ -13892,7 +14311,7 @@
   "title" : "Murrinh-Patha",
   "westlimit" : 129.354
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.609,
   "grammar15" : 1,
@@ -13909,7 +14328,7 @@
   "title" : "Aiklep",
   "westlimit" : 149.52
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.366,
   "grammar15" : 1,
@@ -13945,7 +14364,7 @@
   "title" : "Kala Lagaw Ya",
   "westlimit" : 141.966
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.969,
   "grammar15" : 2,
@@ -13964,7 +14383,7 @@
   "title" : "Monumbo",
   "westlimit" : 144.931
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 151.871,
   "grammar15" : 1,
@@ -14003,7 +14422,7 @@
   "title" : "Moi",
   "westlimit" : 151.111
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.057,
   "grammar15" : 1,
@@ -14038,7 +14457,7 @@
   "title" : "Central Masela",
   "westlimit" : 129.854
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.779,
   "grammar15" : 1,
@@ -14072,7 +14491,7 @@
   "title" : "Moma",
   "westlimit" : 119.771
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 153.113,
   "grammar15" : 3,
@@ -14091,7 +14510,7 @@
   "title" : "Muyuw",
   "westlimit" : 151.308
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 148.797,
   "grammar15" : 1,
@@ -14126,7 +14545,7 @@
   "title" : "Mori Atas",
   "westlimit" : 120.878
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.966,
   "grammar15" : 1,
@@ -14144,7 +14563,7 @@
   "title" : "Inapang",
   "westlimit" : 144.833
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.807,
   "grammar15" : 1,
@@ -14162,7 +14581,7 @@
   "title" : "Maiadomu",
   "westlimit" : 150.713
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 144.914,
   "grammar15" : 2,
@@ -14214,7 +14633,7 @@
   "title" : "Naka'ela",
   "westlimit" : 128.467
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 147.054,
   "grammar15" : 3,
@@ -14233,7 +14652,7 @@
   "title" : "Nabak",
   "westlimit" : 146.879
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 151.133,
   "grammar15" : 3,
@@ -14252,7 +14671,7 @@
   "title" : "Nakanai",
   "westlimit" : 150.377
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 151.467,
   "grammar15" : 1,
@@ -14287,7 +14706,7 @@
   "title" : "Ngan'gityemerri",
   "westlimit" : 130.707
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 155.907,
   "grammar15" : 5,
@@ -14325,7 +14744,7 @@
   "title" : "Nauru",
   "westlimit" : 166.899
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.686,
   "grammar15" : 1,
@@ -14361,7 +14780,7 @@
   "title" : "Ngarinman",
   "westlimit" : 129.64
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.692,
   "grammar15" : 1,
@@ -14414,7 +14833,7 @@
   "title" : "Nggem",
   "westlimit" : 138.817
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.506,
   "grammar15" : 1,
@@ -14433,7 +14852,7 @@
   "title" : "Ningera",
   "westlimit" : 141.403
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.316,
   "grammar15" : 2,
@@ -14451,7 +14870,7 @@
   "title" : "Iyo",
   "westlimit" : 145.868
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.9,
   "grammar15" : 1,
@@ -14468,7 +14887,7 @@
   "title" : "Ponam",
   "westlimit" : 146.875
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.669,
   "grammar15" : 3,
@@ -14488,7 +14907,7 @@
 }, {
   "audiofile" : "MR1-040-A",
   "audiofile2" : "MR1-054-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 151.683,
   "grammar15" : 2,
@@ -14524,7 +14943,7 @@
   "title" : "Nakara",
   "westlimit" : 134.175
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.074,
   "grammar15" : 2,
@@ -14543,7 +14962,7 @@
   "title" : "Nambo",
   "westlimit" : 141.787
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 148.206,
   "grammar15" : 1,
@@ -14562,7 +14981,7 @@
   "title" : "Nauna",
   "westlimit" : 148.191
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 155.525,
   "grammar15" : 1,
@@ -14652,7 +15071,7 @@
   "title" : "Nêlêmwa-Nixumwak",
   "westlimit" : 163.782
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.342,
   "grammar15" : 1,
@@ -14744,7 +15163,7 @@
   "title" : "Yahadian",
   "westlimit" : 131.968
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.146,
   "grammar15" : 1,
@@ -14762,7 +15181,7 @@
   "title" : "Nete",
   "westlimit" : 142.912
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.985,
   "grammar15" : 1,
@@ -14894,7 +15313,7 @@
   "title" : "Nhuwala",
   "westlimit" : 115.309
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 157.086,
   "grammar15" : 1,
@@ -14913,7 +15332,7 @@
   "title" : "Takuu",
   "westlimit" : 157.07
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 146.829,
   "grammar15" : 1,
@@ -14931,7 +15350,7 @@
   "title" : "Nakame",
   "westlimit" : 146.734
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.903,
   "grammar15" : 1,
@@ -14967,7 +15386,7 @@
   "title" : "Ngalakan",
   "westlimit" : 134.277
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 144.591,
   "grammar15" : 3,
@@ -15021,7 +15440,7 @@
   "title" : "Nimboran",
   "westlimit" : 140.084
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.731,
   "grammar15" : 1,
@@ -15058,7 +15477,7 @@
   "title" : "Niuean",
   "westlimit" : -169.951
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.665,
   "grammar15" : 1,
@@ -15076,7 +15495,7 @@
   "title" : "Nimo",
   "westlimit" : 141.491
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 142.289,
   "grammar15" : 3,
@@ -15170,7 +15589,7 @@
   "title" : "Duke",
   "westlimit" : 156.935
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.282,
   "grammar15" : 1,
@@ -15206,7 +15625,7 @@
   "title" : "Nakai",
   "westlimit" : 140.29
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.732,
   "grammar15" : 1,
@@ -15386,7 +15805,7 @@
   "title" : "Ngamini",
   "westlimit" : 138.028
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 153.263,
   "grammar15" : 1,
@@ -15404,7 +15823,7 @@
   "title" : "Nimoa",
   "westlimit" : 152.968
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 153.263,
   "grammar15" : 1,
@@ -15439,7 +15858,7 @@
   "title" : "Nyangumarta",
   "westlimit" : 118.559
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.416,
   "grammar15" : 1,
@@ -15474,7 +15893,7 @@
   "title" : "North Nuaulu",
   "westlimit" : 129.216
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 146.547,
   "grammar15" : 3,
@@ -15493,7 +15912,7 @@
   "title" : "Nankina",
   "westlimit" : 146.381
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 141.91,
   "grammar15" : 5,
@@ -15546,7 +15965,7 @@
   "title" : "Nyangga",
   "westlimit" : 137.377
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.916,
   "grammar15" : 1,
@@ -15564,7 +15983,7 @@
   "title" : "Nuk",
   "westlimit" : 146.834
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.19,
   "grammar15" : 1,
@@ -15581,7 +16000,7 @@
   "title" : "Nomane",
   "westlimit" : 145.006
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.57,
   "grammar15" : 1,
@@ -15600,7 +16019,7 @@
   "title" : "Nomu",
   "westlimit" : 147.43
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.785,
   "grammar15" : 1,
@@ -15619,7 +16038,7 @@
   "westlimit" : 146.654
 }, {
   "audiofile" : "TD1-P001-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 149.119,
   "grammar15" : 2,
@@ -15639,7 +16058,7 @@
   "westlimit" : 148.199
 }, {
   "audiofile" : "MR1-058-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.991,
   "grammar15" : 1,
@@ -15711,7 +16130,7 @@
   "title" : "Ndom",
   "westlimit" : 137.81
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.085,
   "grammar15" : 1,
@@ -15765,7 +16184,7 @@
 }, {
   "audiofile" : "TD1-P00280-P00280A",
   "audiofile2" : "TD1-P01379-P01379A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 146.923,
   "grammar15" : 1,
@@ -15785,7 +16204,7 @@
   "westlimit" : 146.575
 }, {
   "audiofile" : "MR1-100-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 154.242,
   "grammar15" : 2,
@@ -15804,7 +16223,7 @@
   "title" : "Nehan",
   "westlimit" : 154.109
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.276,
   "grammar15" : 1,
@@ -15859,7 +16278,7 @@
   "title" : "Yuanga",
   "westlimit" : 164.315
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.538,
   "grammar15" : 1,
@@ -15930,7 +16349,7 @@
   "title" : "Niuafo'ou",
   "westlimit" : -175.682
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 159.478,
   "grammar15" : 1,
@@ -15948,7 +16367,7 @@
   "title" : "Nukumanu",
   "westlimit" : 159.451
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 154.75,
   "grammar15" : 1,
@@ -15983,7 +16402,7 @@
   "title" : "Nguluwan",
   "westlimit" : 137.552
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.536,
   "grammar15" : 2,
@@ -16020,7 +16439,7 @@
   "title" : "Nunggubuyu",
   "westlimit" : 135.428
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 148.834,
   "grammar15" : 1,
@@ -16055,7 +16474,7 @@
   "title" : "Nauo",
   "westlimit" : 30.247
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 148.309,
   "grammar15" : 1,
@@ -16291,7 +16710,7 @@
   "title" : "Oirata",
   "westlimit" : 127.171
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.956,
   "grammar15" : 1,
@@ -16328,7 +16747,7 @@
   "title" : "Ontong Java",
   "westlimit" : 159.369
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.915,
   "grammar15" : 1,
@@ -16345,7 +16764,7 @@
   "title" : "Kwamtim One",
   "westlimit" : 141.863
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.004,
   "grammar15" : 1,
@@ -16363,7 +16782,7 @@
   "title" : "Utarmbung",
   "westlimit" : 144.844
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.931,
   "grammar15" : 1,
@@ -16381,7 +16800,7 @@
   "title" : "South Tairora",
   "westlimit" : 145.835
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 142.352,
   "grammar15" : 3,
@@ -16418,7 +16837,7 @@
   "title" : "Onin",
   "westlimit" : 131.943
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.154,
   "grammar15" : 1,
@@ -16437,7 +16856,7 @@
   "title" : "Onjob",
   "westlimit" : 149.087
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.978,
   "grammar15" : 1,
@@ -16454,7 +16873,7 @@
   "title" : "Kabore One",
   "westlimit" : 141.782
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.918,
   "grammar15" : 1,
@@ -16472,7 +16891,7 @@
   "title" : "Onobasulu",
   "westlimit" : 142.634
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.092,
   "grammar15" : 1,
@@ -16490,7 +16909,7 @@
   "title" : "Northern One",
   "westlimit" : 141.92
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 147.693,
   "grammar15" : 2,
@@ -16509,7 +16928,7 @@
   "title" : "Ono",
   "westlimit" : 147.465
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.847,
   "grammar15" : 1,
@@ -16546,7 +16965,7 @@
   "audiofile" : "RL2-200501-A",
   "audiofile2" : "RL2-200502-A",
   "audiofile3" : "RL2-200504-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 142.342,
   "grammar15" : 5,
@@ -16566,7 +16985,7 @@
   "westlimit" : 142.011
 }, {
   "audiofile" : "TD1-0676-0676A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.801,
   "grammar15" : 1,
@@ -16606,7 +17025,7 @@
   "audiofile" : "TD1-0876-A",
   "audiofile2" : "TD1-1578-1578A",
   "audiofile3" : "TD1-1678-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 145.438,
   "grammar15" : 2,
@@ -16644,7 +17063,7 @@
   "title" : "Ormu",
   "westlimit" : 140.494
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.899,
   "grammar15" : 1,
@@ -16661,7 +17080,7 @@
   "title" : "Southern One",
   "westlimit" : 141.805
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 155.784,
   "grammar15" : 1,
@@ -16678,7 +17097,7 @@
   "title" : "Oune",
   "westlimit" : 155.632
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.893,
   "grammar15" : 2,
@@ -16697,7 +17116,7 @@
   "title" : "Owiniga",
   "westlimit" : 141.502
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.693,
   "grammar15" : 1,
@@ -16734,7 +17153,7 @@
   "title" : "Papasena",
   "westlimit" : 138.456
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.428,
   "grammar15" : 1,
@@ -16753,7 +17172,7 @@
   "title" : "Papitalai",
   "westlimit" : 147.367
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.036,
   "grammar15" : 1,
@@ -16772,7 +17191,7 @@
   "title" : "Pyu",
   "westlimit" : 140.999
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.115,
   "grammar15" : 1,
@@ -16824,7 +17243,7 @@
   "title" : "Padoe",
   "westlimit" : 121.026
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.38,
   "grammar15" : 2,
@@ -16859,7 +17278,7 @@
   "title" : "Taje",
   "westlimit" : 120.024
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.879,
   "grammar15" : 1,
@@ -16878,7 +17297,7 @@
   "title" : "Penchal",
   "westlimit" : 147.741
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.662,
   "grammar15" : 1,
@@ -16896,7 +17315,7 @@
   "title" : "Kunja",
   "westlimit" : 141.186
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 154.562,
   "grammar15" : 4,
@@ -16915,7 +17334,7 @@
   "title" : "Petats",
   "westlimit" : 154.512
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.456,
   "grammar15" : 1,
@@ -16986,7 +17405,7 @@
   "title" : "Pini",
   "westlimit" : 120.862
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.855,
   "grammar15" : 1,
@@ -17080,7 +17499,7 @@
   "title" : "Pileni",
   "westlimit" : 165.65
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.485,
   "grammar15" : 1,
@@ -17134,7 +17553,7 @@
   "title" : "Pitjantjatjara",
   "westlimit" : 127.962
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.794,
   "grammar15" : 1,
@@ -17189,7 +17608,7 @@
   "title" : "Pukapuka",
   "westlimit" : -165.858
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.356,
   "grammar15" : 2,
@@ -17278,7 +17697,7 @@
   "title" : "Pom",
   "westlimit" : 135.315
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 144.906,
   "grammar15" : 5,
@@ -17351,7 +17770,7 @@
   "title" : "Penrhyn",
   "westlimit" : -158.062
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.273,
   "grammar15" : 1,
@@ -17387,7 +17806,7 @@
   "title" : "Pancana",
   "westlimit" : 122.712
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.797,
   "grammar15" : 3,
@@ -17495,7 +17914,7 @@
   "title" : "Pwapwâ",
   "westlimit" : 164.44
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.038,
   "grammar15" : 1,
@@ -17551,7 +17970,7 @@
   "westlimit" : 135.882
 }, {
   "audiofile" : "BP4-E001-01",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 155.302,
   "grammar15" : 1,
@@ -17570,7 +17989,7 @@
   "title" : "Papapana",
   "westlimit" : 155.276
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 144.834,
   "grammar15" : 3,
@@ -17589,7 +18008,7 @@
   "title" : "Folopa",
   "westlimit" : 144.083
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.286,
   "grammar15" : 1,
@@ -17607,7 +18026,7 @@
   "title" : "Pei",
   "westlimit" : 142.208
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.091,
   "grammar15" : 1,
@@ -17644,7 +18063,7 @@
   "title" : "Paicî",
   "westlimit" : 164.824
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.355,
   "grammar15" : 1,
@@ -17681,7 +18100,7 @@
   "title" : "Puragi",
   "westlimit" : 132.219
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.494,
   "grammar15" : 1,
@@ -17735,7 +18154,7 @@
   "title" : "Panasuan",
   "westlimit" : 119.56
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.347,
   "grammar15" : 1,
@@ -17753,7 +18172,7 @@
   "title" : "Pasi",
   "westlimit" : 142.267
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.851,
   "grammar15" : 2,
@@ -17806,7 +18225,7 @@
   "title" : "Patani",
   "westlimit" : 128.358
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 146.706,
   "grammar15" : 5,
@@ -17860,7 +18279,7 @@
   "title" : "Bambam",
   "westlimit" : 119.047
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.766,
   "grammar15" : 1,
@@ -17878,7 +18297,7 @@
   "title" : "Pulabu",
   "westlimit" : 145.71
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.761,
   "grammar15" : 1,
@@ -17896,7 +18315,7 @@
   "title" : "Puare",
   "westlimit" : 141.668
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.495,
   "grammar15" : 3,
@@ -17914,7 +18333,7 @@
   "title" : "Pawaia",
   "westlimit" : 144.668
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 150.018,
   "grammar15" : 2,
@@ -17952,7 +18371,7 @@
   "westlimit" : 136.327
 }, {
   "audiofile" : "MR1-037-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 152.493,
   "grammar15" : 5,
@@ -17974,7 +18393,7 @@
   "audiofile" : "JN2-CUSCUS2011-A",
   "audiofile2" : "JN2-ORIGIN2007-A",
   "audiofile3" : "JN2-SAGO2001-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.064,
   "grammar15" : 1,
@@ -18011,7 +18430,7 @@
   "title" : "Riantana",
   "westlimit" : 138.086
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 144.794,
   "grammar15" : 4,
@@ -18087,7 +18506,7 @@
   "title" : "Rahambuu",
   "westlimit" : 120.955
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.739,
   "grammar15" : 1,
@@ -18156,7 +18575,7 @@
   "title" : "Ringgou",
   "westlimit" : 123.202
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.489,
   "grammar15" : 1,
@@ -18281,7 +18700,7 @@
   "title" : "Murkim",
   "westlimit" : 140.846
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.765,
   "grammar15" : 1,
@@ -18316,7 +18735,7 @@
   "title" : "Roma",
   "westlimit" : 127.383
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.816,
   "grammar15" : 1,
@@ -18369,7 +18788,7 @@
   "title" : "Tae'",
   "westlimit" : 119.752
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.801,
   "grammar15" : 1,
@@ -18386,7 +18805,7 @@
   "title" : "Ronji",
   "westlimit" : 146.66
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 155.409,
   "grammar15" : 4,
@@ -18439,7 +18858,7 @@
   "title" : "Dela-Oenale",
   "westlimit" : 122.723
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.693,
   "grammar15" : 1,
@@ -18479,7 +18898,7 @@
   "westlimit" : 156.852
 }, {
   "audiofile" : "MR1-027-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 146.708,
   "grammar15" : 3,
@@ -18555,7 +18974,7 @@
   "title" : "Roviana",
   "westlimit" : 157.002
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.677,
   "grammar15" : 1,
@@ -18574,7 +18993,7 @@
   "title" : "Rawo",
   "westlimit" : 141.529
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 146.158,
   "grammar15" : 5,
@@ -18689,7 +19108,7 @@
   "title" : "Simbo",
   "westlimit" : 156.51
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 156.819,
   "grammar15" : 1,
@@ -18708,7 +19127,7 @@
   "title" : "Kele",
   "westlimit" : 156.51
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 150.797,
   "grammar15" : 3,
@@ -18745,7 +19164,7 @@
   "title" : "Seget",
   "westlimit" : 130.916
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.693,
   "grammar15" : 1,
@@ -18764,7 +19183,7 @@
   "title" : "Sori-Harengan",
   "westlimit" : 146.613
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.863,
   "grammar15" : 1,
@@ -18783,7 +19202,7 @@
   "title" : "Seti",
   "westlimit" : 141.791
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.326,
   "grammar15" : 5,
@@ -18855,7 +19274,7 @@
   "title" : "Sarudu",
   "westlimit" : 119.283
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.083,
   "grammar15" : 1,
@@ -18911,7 +19330,7 @@
   "westlimit" : 135.919
 }, {
   "audiofile" : "MR1-018-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 151.057,
   "grammar15" : 1,
@@ -18947,7 +19366,7 @@
   "title" : "Salas",
   "westlimit" : 130.457
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 152.942,
   "grammar15" : 5,
@@ -18986,7 +19405,7 @@
   "audiofile" : "JB1-001-A",
   "audiofile2" : "JB1-002-A",
   "audiofile3" : "JB1-003-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 147.338,
   "grammar15" : 1,
@@ -19005,7 +19424,7 @@
   "title" : "Numbami",
   "westlimit" : 147.257
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : -1.467,
   "grammar15" : 2,
@@ -19024,7 +19443,7 @@
   "title" : "Mende",
   "westlimit" : -2.127
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.621,
   "grammar15" : 1,
@@ -19042,7 +19461,7 @@
   "title" : "Sonia",
   "westlimit" : 142.557
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.404,
   "grammar15" : 1,
@@ -19060,7 +19479,7 @@
   "title" : "Sinagen",
   "westlimit" : 142.33
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.323,
   "grammar15" : 1,
@@ -19077,7 +19496,7 @@
   "title" : "Sumariup",
   "westlimit" : 143.154
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 155.631,
   "grammar15" : 5,
@@ -19096,7 +19515,7 @@
   "title" : "Siwai",
   "westlimit" : 155.272
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.519,
   "grammar15" : 1,
@@ -19115,7 +19534,7 @@
   "title" : "Sumau",
   "westlimit" : 145.429
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.807,
   "grammar15" : 2,
@@ -19151,7 +19570,7 @@
   "title" : "Sika",
   "westlimit" : 122.074
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.758,
   "grammar15" : 1,
@@ -19186,7 +19605,7 @@
   "title" : "Seko Tengah",
   "westlimit" : 119.723
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.199,
   "grammar15" : 2,
@@ -19280,7 +19699,7 @@
   "title" : "Sekar",
   "westlimit" : 132.403
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 145.091,
   "grammar15" : 5,
@@ -19335,7 +19754,7 @@
   "title" : "Selaru",
   "westlimit" : 130.755
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.629,
   "grammar15" : 1,
@@ -19389,7 +19808,7 @@
   "title" : "Ma'ya",
   "westlimit" : 130.82
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.756,
   "grammar15" : 1,
@@ -19407,7 +19826,7 @@
   "title" : "Simbari",
   "westlimit" : 145.451
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.685,
   "grammar15" : 1,
@@ -19425,7 +19844,7 @@
   "title" : "Som",
   "westlimit" : 146.617
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.296,
   "grammar15" : 1,
@@ -19443,7 +19862,7 @@
   "title" : "Auwe",
   "westlimit" : 141.211
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 152.127,
   "grammar15" : 1,
@@ -19485,7 +19904,7 @@
   "audiofile" : "CLV1-161-A",
   "audiofile2" : "CLV1-162-A",
   "audiofile3" : "CLV1-163-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 142.363,
   "grammar15" : 4,
@@ -19504,7 +19923,7 @@
   "title" : "Samo",
   "westlimit" : 142.028
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 155.488,
   "grammar15" : 1,
@@ -19524,7 +19943,7 @@
   "audiofile" : "TD1-M003-A",
   "audiofile2" : "TD1-M004-A",
   "audiofile3" : "TD1-P032-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 148.211,
   "grammar15" : 3,
@@ -19543,7 +19962,7 @@
   "title" : "Sinaugoro",
   "westlimit" : 147.512
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 145.378,
   "grammar15" : 3,
@@ -19562,7 +19981,7 @@
   "title" : "Siane",
   "westlimit" : 145.115
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.622,
   "grammar15" : 1,
@@ -19598,7 +20017,7 @@
   "title" : "Senggi",
   "westlimit" : 140.726
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.843,
   "grammar15" : 1,
@@ -19617,7 +20036,7 @@
   "title" : "Sam",
   "westlimit" : 145.784
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 142.534,
   "grammar15" : 3,
@@ -19635,7 +20054,7 @@
   "title" : "Saniyo-Hiyewe",
   "westlimit" : 142.205
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.681,
   "grammar15" : 1,
@@ -19672,7 +20091,7 @@
   "title" : "Sobei",
   "westlimit" : 138.735
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 154.65,
   "grammar15" : 1,
@@ -19691,7 +20110,7 @@
   "title" : "Solos",
   "westlimit" : 154.546
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 149.965,
   "grammar15" : 2,
@@ -19745,7 +20164,7 @@
   "title" : "Sepa",
   "westlimit" : 129.095
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.154,
   "grammar15" : 1,
@@ -19763,7 +20182,7 @@
   "title" : "Saep",
   "westlimit" : 146.002
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.154,
   "grammar15" : 1,
@@ -19798,7 +20217,7 @@
   "title" : "Saponi",
   "westlimit" : 136.502
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.975,
   "grammar15" : 1,
@@ -19815,7 +20234,7 @@
   "title" : "Sengo",
   "westlimit" : 142.938
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 4,
   "eastlimit" : 147.296,
   "grammar15" : 5,
@@ -19852,7 +20271,7 @@
   "westlimit" : 127.917
 }, {
   "audiofile" : "MR1-047-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 154.756,
   "grammar15" : 3,
@@ -19871,7 +20290,7 @@
   "title" : "Saposa",
   "westlimit" : 154.633
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.624,
   "grammar15" : 1,
@@ -19889,7 +20308,7 @@
   "title" : "Saruga",
   "westlimit" : 145.532
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.834,
   "grammar15" : 1,
@@ -19960,7 +20379,7 @@
   "westlimit" : 128.895
 }, {
   "audiofile" : "MR1-065-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142,
   "grammar15" : 1,
@@ -19978,7 +20397,7 @@
   "title" : "Sera",
   "westlimit" : 141.901
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 146.074,
   "grammar15" : 5,
@@ -19997,7 +20416,7 @@
   "title" : "Siroi",
   "westlimit" : 145.914
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.099,
   "grammar15" : 3,
@@ -20016,7 +20435,7 @@
   "title" : "Seimat",
   "westlimit" : 144.019
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.538,
   "grammar15" : 1,
@@ -20034,7 +20453,7 @@
   "title" : "Sausi",
   "westlimit" : 145.446
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.332,
   "grammar15" : 1,
@@ -20069,7 +20488,7 @@
   "title" : "So'a",
   "westlimit" : 120.991
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.124,
   "grammar15" : 1,
@@ -20088,7 +20507,7 @@
   "title" : "Sinasina",
   "westlimit" : 144.94
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.567,
   "grammar15" : 1,
@@ -20105,7 +20524,7 @@
   "title" : "Susuami",
   "westlimit" : 146.556
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.141,
   "grammar15" : 1,
@@ -20124,7 +20543,7 @@
   "title" : "Samberigi",
   "westlimit" : 143.76
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.846,
   "grammar15" : 1,
@@ -20158,7 +20577,7 @@
   "title" : "Liana-Seti",
   "westlimit" : 129.742
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.793,
   "grammar15" : 1,
@@ -20177,7 +20596,7 @@
   "title" : "Seta",
   "westlimit" : 141.703
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.871,
   "grammar15" : 1,
@@ -20196,7 +20615,7 @@
   "title" : "Arammba",
   "westlimit" : 141.019
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.946,
   "grammar15" : 1,
@@ -20214,7 +20633,7 @@
   "title" : "Setaman",
   "westlimit" : 141.721
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 152.356,
   "grammar15" : 4,
@@ -20233,7 +20652,7 @@
   "title" : "Sulka",
   "westlimit" : 151.818
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.393,
   "grammar15" : 1,
@@ -20253,7 +20672,7 @@
 }, {
   "audiofile" : "CLV1-032-A",
   "audiofile2" : "CLV1-035-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.41,
   "grammar15" : 1,
@@ -20274,7 +20693,7 @@
 }, {
   "audiofile" : "MR1-072-A",
   "audiofile2" : "MR1-074-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.934,
   "grammar15" : 1,
@@ -20329,7 +20748,7 @@
   "title" : "Savosavo",
   "westlimit" : 159.784
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.58,
   "grammar15" : 1,
@@ -20480,7 +20899,7 @@
   "title" : "Tahitian",
   "westlimit" : -152.293
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.695,
   "grammar15" : 1,
@@ -20498,7 +20917,7 @@
   "title" : "Tai",
   "westlimit" : 144.624
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 146.259,
   "grammar15" : 3,
@@ -20520,7 +20939,7 @@
   "audiofile" : "JC1-KA01-Original",
   "audiofile2" : "JC1-KA02-Original",
   "audiofile3" : "JC1-KA03-Original",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.848,
   "grammar15" : 3,
@@ -20557,7 +20976,7 @@
   "westlimit" : 166.49
 }, {
   "audiofile" : "MR1-039-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 152.078,
   "grammar15" : 2,
@@ -20574,7 +20993,7 @@
   "title" : "Mandara",
   "westlimit" : 151.904
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 146.122,
   "grammar15" : 3,
@@ -20595,7 +21014,7 @@
 }, {
   "audiofile" : "MR1-024-A",
   "audiofile2" : "MR1-026-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 151.072,
   "grammar15" : 3,
@@ -20631,7 +21050,7 @@
   "title" : "Taworta",
   "westlimit" : 138.58
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.982,
   "grammar15" : 1,
@@ -20649,7 +21068,7 @@
   "title" : "Tanguat",
   "westlimit" : 144.872
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.473,
   "grammar15" : 1,
@@ -20668,7 +21087,7 @@
   "title" : "Tobo",
   "westlimit" : 147.278
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.593,
   "grammar15" : 1,
@@ -20725,7 +21144,7 @@
   "westlimit" : 138.748
 }, {
   "audiofile" : "MC1-001-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.658,
   "grammar15" : 1,
@@ -20833,7 +21252,7 @@
   "title" : "Tetun Dili",
   "westlimit" : 125.537
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.712,
   "grammar15" : 1,
@@ -20908,7 +21327,7 @@
   "westlimit" : 127.216
 }, {
   "audiofile" : "MR1-044-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 151.085,
   "grammar15" : 3,
@@ -20926,7 +21345,7 @@
   "title" : "Tigak",
   "westlimit" : 150.43
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 155.218,
   "grammar15" : 1,
@@ -20945,7 +21364,7 @@
   "title" : "Lawunuia",
   "westlimit" : 154.729
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 153.773,
   "grammar15" : 3,
@@ -20964,7 +21383,7 @@
   "title" : "Sudest",
   "westlimit" : 153.203
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.974,
   "grammar15" : 1,
@@ -21001,7 +21420,7 @@
   "title" : "Thayore",
   "westlimit" : 141.816
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 141.57,
   "grammar15" : 4,
@@ -21020,7 +21439,7 @@
   "title" : "Tifal",
   "westlimit" : 141.017
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.195,
   "grammar15" : 2,
@@ -21040,7 +21459,7 @@
   "westlimit" : 146.919
 }, {
   "audiofile" : "NC1-002-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 155.172,
   "grammar15" : 4,
@@ -21291,7 +21710,7 @@
   "title" : "Taliabu",
   "westlimit" : 124.357
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.814,
   "grammar15" : 1,
@@ -21310,7 +21729,7 @@
   "title" : "Khehek",
   "westlimit" : 146.677
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.458,
   "grammar15" : 1,
@@ -21383,7 +21802,7 @@
   "westlimit" : 137.268
 }, {
   "audiofile" : "MR1-089-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.815,
   "grammar15" : 1,
@@ -21438,7 +21857,7 @@
   "title" : "Tabla",
   "westlimit" : 140.202
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.737,
   "grammar15" : 1,
@@ -21489,7 +21908,7 @@
   "title" : "Tonsawang",
   "westlimit" : 124.375
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.89,
   "grammar15" : 2,
@@ -21545,7 +21964,7 @@
   "title" : "Tonga",
   "westlimit" : -176.213
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.497,
   "grammar15" : 1,
@@ -21581,7 +22000,7 @@
   "title" : "Kula",
   "westlimit" : 124.898
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 155.062,
   "grammar15" : 2,
@@ -21601,7 +22020,7 @@
   "westlimit" : 154.883
 }, {
   "audiofile" : "TD1-0176-0176A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 146.564,
   "grammar15" : 3,
@@ -21642,7 +22061,7 @@
   "title" : "Touo",
   "westlimit" : 157.188
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.861,
   "grammar15" : 1,
@@ -21676,7 +22095,7 @@
   "title" : "East Tarangan",
   "westlimit" : 134.051
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.6,
   "grammar15" : 1,
@@ -21711,7 +22130,7 @@
   "title" : "Tunggare",
   "westlimit" : 135.291
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.254,
   "grammar15" : 1,
@@ -21729,7 +22148,7 @@
   "title" : "Mubami",
   "westlimit" : 142.742
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.362,
   "grammar15" : 1,
@@ -21804,7 +22223,7 @@
   "audiofile" : "MR1-055-A",
   "audiofile2" : "TS1-N001-1",
   "audiofile3" : "TS1-N002-1",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 147.816,
   "grammar15" : 1,
@@ -21841,7 +22260,7 @@
   "title" : "Sikaritai",
   "westlimit" : 138.098
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.782,
   "grammar15" : 1,
@@ -21859,7 +22278,7 @@
   "title" : "Wiarumus",
   "westlimit" : 143.73
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 148.053,
   "grammar15" : 1,
@@ -21877,7 +22296,7 @@
   "title" : "Mutu",
   "westlimit" : 147.933
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 152.244,
   "grammar15" : 1,
@@ -22035,7 +22454,7 @@
   "title" : "Tereweng",
   "westlimit" : 124.183
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 147.141,
   "grammar15" : 1,
@@ -22072,7 +22491,7 @@
   "title" : "Termanu",
   "westlimit" : 123.063
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.147,
   "grammar15" : 1,
@@ -22159,7 +22578,7 @@
   "title" : "Citak",
   "westlimit" : 139.251
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.441,
   "grammar15" : 2,
@@ -22232,7 +22651,7 @@
   "westlimit" : 126.558
 }, {
   "audiofile" : "TD1-P02676-P02676A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.819,
   "grammar15" : 1,
@@ -22251,7 +22670,7 @@
   "title" : "Tairuma",
   "westlimit" : 145.656
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 144.258,
   "grammar15" : 2,
@@ -22289,7 +22708,7 @@
   "title" : "Ujir",
   "westlimit" : 134.242
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.38,
   "grammar15" : 1,
@@ -22342,7 +22761,7 @@
   "title" : "Damal",
   "westlimit" : 136.537
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 155.813,
   "grammar15" : 1,
@@ -22378,7 +22797,7 @@
   "title" : "Kaburi",
   "westlimit" : 132.329
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.539,
   "grammar15" : 1,
@@ -22556,7 +22975,7 @@
   "title" : "Unde Kaili",
   "westlimit" : 119.505
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.186,
   "grammar15" : 1,
@@ -22609,7 +23028,7 @@
   "title" : "Uradhi",
   "westlimit" : 141.966
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.569,
   "grammar15" : 1,
@@ -22627,7 +23046,7 @@
   "title" : "Urigina",
   "westlimit" : 145.445
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 142.72,
   "grammar15" : 5,
@@ -22646,7 +23065,7 @@
   "title" : "Urim",
   "westlimit" : 142.586
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.565,
   "grammar15" : 1,
@@ -22681,7 +23100,7 @@
   "title" : "Uruangnirin",
   "westlimit" : 132.73
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 152.163,
   "grammar15" : 1,
@@ -22719,7 +23138,7 @@
   "title" : "Lehalurup",
   "westlimit" : 167.295
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.862,
   "grammar15" : 2,
@@ -22738,7 +23157,7 @@
   "title" : "Urat",
   "westlimit" : 142.719
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.436,
   "grammar15" : 1,
@@ -22756,7 +23175,7 @@
   "title" : "Sop",
   "westlimit" : 145.286
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 143.797,
   "grammar15" : 1,
@@ -22792,7 +23211,7 @@
   "title" : "Orya",
   "westlimit" : 139.57
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 145.684,
   "grammar15" : 5,
@@ -22811,7 +23230,7 @@
   "title" : "Usarufa",
   "westlimit" : 145.582
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.488,
   "grammar15" : 1,
@@ -22847,7 +23266,7 @@
   "title" : "Amba",
   "westlimit" : -115.173
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.592,
   "grammar15" : 1,
@@ -22885,7 +23304,7 @@
   "title" : "West Uvean",
   "westlimit" : 166.134
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 146.712,
   "grammar15" : 3,
@@ -22904,7 +23323,7 @@
   "title" : "Uri",
   "westlimit" : 146.505
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 151.055,
   "grammar15" : 1,
@@ -22925,7 +23344,7 @@
 }, {
   "audiofile" : "MR1-059-A",
   "audiofile2" : "MR1-060-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 141.653,
   "grammar15" : 3,
@@ -22961,7 +23380,7 @@
   "title" : "Southeast Babar",
   "westlimit" : 129.74
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 150.386,
   "grammar15" : 4,
@@ -23065,7 +23484,7 @@
   "title" : "East Masela",
   "westlimit" : 129.841
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 152.046,
   "grammar15" : 1,
@@ -23136,7 +23555,7 @@
   "title" : "Varisi",
   "westlimit" : 156.431
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.474,
   "grammar15" : 1,
@@ -23153,7 +23572,7 @@
   "title" : "Wab",
   "westlimit" : 146.449
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.417,
   "grammar15" : 1,
@@ -23205,7 +23624,7 @@
   "title" : "Wares",
   "westlimit" : 139.271
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 146.162,
   "grammar15" : 3,
@@ -23241,7 +23660,7 @@
   "title" : "Wageman",
   "westlimit" : 131.296
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.284,
   "grammar15" : 1,
@@ -23259,7 +23678,7 @@
   "title" : "Kaninuwa",
   "westlimit" : 150.222
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.184,
   "grammar15" : 1,
@@ -23410,7 +23829,7 @@
   "title" : "Wadjigu",
   "westlimit" : 147.169
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.535,
   "grammar15" : 1,
@@ -23498,7 +23917,7 @@
   "westlimit" : 137.215
 }, {
   "audiofile" : "TD1-P00675-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 144.798,
   "grammar15" : 4,
@@ -23569,7 +23988,7 @@
   "title" : "Sou Upaa",
   "westlimit" : 129.057
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.041,
   "grammar15" : 1,
@@ -23637,7 +24056,7 @@
   "title" : "Wik-Me'anha",
   "westlimit" : 141.817
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.411,
   "grammar15" : 1,
@@ -23692,7 +24111,7 @@
   "title" : "Wik-Mungkan",
   "westlimit" : 141.539
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 144.393,
   "grammar15" : 2,
@@ -23746,7 +24165,7 @@
   "title" : "Wakawaka",
   "westlimit" : 151.614
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.261,
   "grammar15" : 1,
@@ -23878,7 +24297,7 @@
   "title" : "Wambaya",
   "westlimit" : 134.067
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.591,
   "grammar15" : 1,
@@ -23948,7 +24367,7 @@
   "title" : "Maiwa",
   "westlimit" : 143.785
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.928,
   "grammar15" : 1,
@@ -23985,7 +24404,7 @@
   "title" : "Wambon",
   "westlimit" : 140.236
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.515,
   "grammar15" : 1,
@@ -24040,7 +24459,7 @@
   "title" : "Wano",
   "westlimit" : 137.308
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 145.451,
   "grammar15" : 3,
@@ -24077,7 +24496,7 @@
   "title" : "Wanyi",
   "westlimit" : 145.273
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 144.215,
   "grammar15" : 2,
@@ -24096,7 +24515,7 @@
   "title" : "Wogeo",
   "westlimit" : 144.057
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.489,
   "grammar15" : 1,
@@ -24133,7 +24552,7 @@
   "title" : "Manombai",
   "westlimit" : 134.222
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 142.994,
   "grammar15" : 3,
@@ -24172,7 +24591,7 @@
   "audiofile" : "MC1-002-A",
   "audiofile2" : "MC1-003-A",
   "audiofile3" : "MC1-004-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 5,
   "eastlimit" : 142.084,
   "grammar15" : 5,
@@ -24300,7 +24719,7 @@
   "title" : "Waru",
   "westlimit" : 122.017
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.577,
   "grammar15" : 1,
@@ -24372,7 +24791,7 @@
   "title" : "Warembori",
   "westlimit" : 137.175
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.715,
   "grammar15" : 1,
@@ -24425,7 +24844,7 @@
   "title" : "Wunambal",
   "westlimit" : 124.729
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.205,
   "grammar15" : 1,
@@ -24535,7 +24954,7 @@
   "title" : "Kauwera",
   "westlimit" : 137.97
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.783,
   "grammar15" : 2,
@@ -24572,7 +24991,7 @@
   "title" : "Kambera",
   "westlimit" : 119.645
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.667,
   "grammar15" : 1,
@@ -24641,7 +25060,7 @@
   "title" : "Kembra",
   "westlimit" : 140.388
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.025,
   "grammar15" : 1,
@@ -24659,7 +25078,7 @@
   "title" : "Karore",
   "westlimit" : 149.788
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.988,
   "grammar15" : 2,
@@ -24781,7 +25200,7 @@
   "title" : "Mayaguduna",
   "westlimit" : 139.884
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.442,
   "grammar15" : 1,
@@ -24817,7 +25236,7 @@
   "title" : "Sempan",
   "westlimit" : 137.1
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 147.457,
   "grammar15" : 4,
@@ -24836,7 +25255,7 @@
   "title" : "Sio",
   "westlimit" : 147.25
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.64,
   "grammar15" : 1,
@@ -24871,7 +25290,7 @@
   "title" : "Kwerba Mamberamo",
   "westlimit" : 138.209
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.466,
   "grammar15" : 1,
@@ -24889,7 +25308,7 @@
   "title" : "Yaben",
   "westlimit" : 145.256
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.285,
   "grammar15" : 1,
@@ -24907,7 +25326,7 @@
   "title" : "Yabong",
   "westlimit" : 146.128
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 142.208,
   "grammar15" : 1,
@@ -24943,7 +25362,7 @@
   "title" : "Yetfa",
   "westlimit" : 140.474
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.622,
   "grammar15" : 1,
@@ -24960,7 +25379,7 @@
   "title" : "Yagomi",
   "westlimit" : 146.584
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 145.546,
   "grammar15" : 5,
@@ -24980,7 +25399,7 @@
   "westlimit" : 145.229
 }, {
   "audiofile" : "JM2-YAG002-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 3,
   "eastlimit" : 146.334,
   "grammar15" : 1,
@@ -25034,7 +25453,7 @@
   "title" : "North Awyu",
   "westlimit" : 139.836
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.947,
   "grammar15" : 1,
@@ -25070,7 +25489,7 @@
   "title" : "Yoke",
   "westlimit" : 137.899
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 149.996,
   "grammar15" : 1,
@@ -25105,7 +25524,7 @@
   "title" : "Angguruk Yali",
   "westlimit" : 139.105
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 2,
   "eastlimit" : 142.239,
   "grammar15" : 3,
@@ -25124,7 +25543,7 @@
   "title" : "Yil",
   "westlimit" : 142.117
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 146.967,
   "grammar15" : 1,
@@ -25141,7 +25560,7 @@
   "title" : "Aribwaung",
   "westlimit" : 146.871
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 150.66,
   "grammar15" : 1,
@@ -25177,7 +25596,7 @@
   "title" : "Yamna",
   "westlimit" : 139.243
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.903,
   "grammar15" : 1,
@@ -25212,7 +25631,7 @@
   "title" : "Yarsun",
   "westlimit" : 139.51
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 145.492,
   "grammar15" : 1,
@@ -25266,7 +25685,7 @@
   "westlimit" : 140.111
 }, {
   "audiofile" : "CLV1-033-A",
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 141.76,
   "grammar15" : 1,
@@ -25304,7 +25723,7 @@
   "title" : "Margany",
   "westlimit" : 144.374
 }, {
-  "country" : "South Africa",
+  "country" : "Papua New Guinea",
   "documentationscore" : 1,
   "eastlimit" : 151.756,
   "grammar15" : 1,
