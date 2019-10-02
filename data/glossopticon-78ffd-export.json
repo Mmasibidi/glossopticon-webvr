@@ -1,4 +1,25 @@
 [
+		{
+        "longitude": -26.556082,  
+        "latitude": 27.862308,
+        "name": "Sesotho",
+        "title": "Sesotho",
+        "linkurl2": "http://www.language-archives.org/language/sot#language_descriptions",
+        "linktext2": "See OLAC information about Sesotho",
+        "numberofspeakers": 11800000,
+        "grammar15": 1,
+        "documentationscore": 1,
+        "iso6393": "sot",
+        "northlimit": -26.556082,
+        "southlimit": -26.556082,
+        "westlimit": 27.862308,
+        "eastlimit": 27.862308,
+        "country": "South Africa",
+	"audiofile": "MR1-093-A.mp3",
+	"province": "Gauteng"
+			
+		}
+	,
 	{
   "country" : "Australia",
   "documentationscore" : 1,
