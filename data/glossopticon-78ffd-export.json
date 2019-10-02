@@ -1,8 +1,8 @@
 [
 		{
        "country": "South Africa",
-	"longitude": -26.556082,  
-        "latitude": 27.862308,
+	"longitude": 45.337345,  
+        "latitude": -25.054501,
         "name": "Sesotho",
         "title": "Sesotho",
         "linkurl2": "http://www.language-archives.org/language/sot#language_descriptions",
@@ -15,7 +15,7 @@
         "southlimit": -26.556082,
         "westlimit": 27.862308,
         "eastlimit": 27.862308,
-	"audiofile": "MR1-093-A.mp3",
+	"audiofile": "MR1-093-A",
 	"province": "Gauteng"
 			
 		}
