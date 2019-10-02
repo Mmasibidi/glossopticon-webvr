@@ -1,23 +1,25 @@
 [
-		{
-       "country": "South Africa",
-	"longitude": 46.869,  
-        "latitude": -18.766,
-        "name": "Sesotho",
-        "title": "Sesotho",
-        "linkurl2": "http://www.language-archives.org/language/sot",
-        "linktext2": "See OLAC information about Sesotho",
-        "numberofspeakers": 118000,
-        "grammar15": 1,
-        "documentationscore": 1,
-        "iso6393": "sot",
-         "northlimit" : -9.554,
-        "southlimit" : -11.262,
-         "westlimit" : 151.675,
-        "eastlimit" : 153.039,
-	"audiofile" : "MR1-016-A",
-	
-	}
+	, {
+  "audiofile" : "MR1-016-A",
+  "country" : "South Africa",
+  "documentationscore" : 4,
+  "eastlimit" : 153.039,
+  "grammar15" : 4,
+  "iso6393" : "mpx",
+  "latitude" : -18.766,
+  "lexicon15" : 3,
+  "linktext2" : "See OLAC information about Misima-Panaeati",
+  "linkurl2" : "http://www.language-archives.org/language/mpx",
+  "longitude" : 46.869,
+  "name" : "Misima-Panaeati",
+  "northlimit" : -9.554,
+  "numberofspeakers" : 18000,
+  "region" : "pacific",
+  "southlimit" : -11.262,
+  "texts15" : 1,
+  "title" : "Misima-Panaeati",
+  "westlimit" : 151.675
+}
 	,
 	{
   "country" : "Australia",
